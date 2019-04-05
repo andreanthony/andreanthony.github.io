@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image](https://media.licdn.com/dms/image/C5622AQEAwwMHXeg_xw/feedshare-shrink_8192/0?e=1554512400&v=beta&t=9r_VuDuBe5jaAKdEQM53GDELsAE3rWIisETt6gq1oZk)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
