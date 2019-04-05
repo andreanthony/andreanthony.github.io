@@ -1,3 +1,4 @@
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/andreanthony/andreanthony.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -24,6 +25,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+-->
 ```
 ![Image](https://media.licdn.com/dms/image/C5622AQEAwwMHXeg_xw/feedshare-shrink_8192/0?e=1554512400&v=beta&t=9r_VuDuBe5jaAKdEQM53GDELsAE3rWIisETt6gq1oZk)
 
