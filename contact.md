@@ -1,7 +1,7 @@
-![FB](/fb.png)
-[Facebook](http://www.facebook.com/andreanthony88)
-![LI](/li.png)
-[Linkedin](http://www.linkedin.com/in/andre-anthony)
+[Facebook]![FB](/fb.png)(http://www.facebook.com/andreanthony88)
+
+[Linkedin]![LI](/li.png)(http://www.linkedin.com/in/andre-anthony)
+
 Email
 
 aanthony@icstars.org
