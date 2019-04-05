@@ -2,6 +2,6 @@
 
 ![LI](/li.png) (http://www.linkedin.com/in/andre-anthony)
 
-Email
+Email:
 
 aanthony@icstars.org
