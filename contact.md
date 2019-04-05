@@ -1,6 +1,6 @@
-![FB](/fb.png)(http://www.facebook.com/andreanthony88)
+![FB](http://www.facebook.com/andreanthony88)(/fb.png)
 
-![LI](/li.png)(http://www.linkedin.com/in/andre-anthony)
+![LI](http://www.linkedin.com/in/andre-anthony)(/li.png)
 
 Email
 
