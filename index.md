@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 -->
 
-![Image](https://media.licdn.com/dms/image/C5622AQEAwwMHXeg_xw/feedshare-shrink_8192/0?e=1554512400&v=beta&t=9r_VuDuBe5jaAKdEQM53GDELsAE3rWIisETt6gq1oZk)
+![Image](/self.jpg)
 
 I'm a passionate junior developer looking to bring my skills to a diverse team with opportunity for growth and continuous learning
 
