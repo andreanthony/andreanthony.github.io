@@ -86,4 +86,24 @@ div {
   line-height: 21px;/* or 117% */
   color: #000000;
 }
-
+#github {
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: 53px;
+  top: 421px;
+}
+#request {
+  position: absolute;
+  width: 264px;
+  height: 73px;
+  left: 53px;
+  top: 493px;
+}
+#backbutton {
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: 53px;
+  top: 587px;
+}
