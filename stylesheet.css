@@ -1,0 +1,65 @@
+div {
+  text-align: center;
+  font-family: Roboto;
+  font-size: 26pt;
+  color: #00000;
+  border: 0px;
+  padding: 0px;
+}
+#bar {
+  postion: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 97%;
+  background: #FFFFFF;
+}
+#header {
+  postion: absolute;
+  width: 375px;
+  height: 50px;
+  left: 0px;
+  top: 20px;
+}
+#maintext {
+  postion: absolute;
+  width: 304px;
+  height: 56.96px;       
+  left: 35px;
+  top: 85.54px;
+}
+#mainbutton {
+  postion: absolute;
+  width: 264;
+  height: 51px;       
+  left: 55px;
+  top: 161px;
+}
+#separatorgreen {
+  postion: absolute;
+  width: 377px;
+  height: 25px;       
+  left: -2px;
+  top: 240px;
+}       
+#reportissue {
+  postion: absolute;
+  width: 282px;
+  height: 162px;       
+  left: 47px;
+  top: 289px;
+}
+#separatorred {
+  postion: absolute;
+  width: 377px;
+  height: 25px;       
+  left: -2px;
+  top: 486px;
+}
+#mainbutton {
+  postion: absolute;
+  width: 264;
+  height: 51px;       
+  left: 55px;
+  top: 547px;
+}
