@@ -63,3 +63,27 @@ div {
   left: 55px;
   top: 547px;
 }
+#rectangle {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 10.34%;
+  bottom: 40.03%;
+  background: #EFEFF4;
+  mix-blend-mode: normal;
+  opacity: 0.85;
+}
+#transittalkabout {
+  position: absolute;
+  left: 9.33%;
+  right: 9.6%;
+  top: 11.84%;
+  bottom: 40.93%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 21px;/* or 117% */
+  color: #000000;
+}
+
