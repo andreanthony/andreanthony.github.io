@@ -61,7 +61,7 @@ div {
   top: 11.84%;
   bottom: 40.93%;
   font-size: 18px;
-  color: #000000;
+  text-align: left;
 }
 #github {
   position: absolute;
