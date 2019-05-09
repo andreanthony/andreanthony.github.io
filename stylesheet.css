@@ -46,10 +46,14 @@ div {
   top: 240px;
 }       
 #reportissue {
+  position: absolute;
+  width: 282px;
   height: 162px;
+  left: 47px;
+  top: 289px;
 }
 #separatorred {
-  postion: absolute;
+  position: absolute;
   width: 377px;
   height: 25px;       
   left: -2px;
