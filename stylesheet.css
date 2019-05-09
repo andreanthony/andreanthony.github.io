@@ -107,3 +107,305 @@ div {
   left: 53px;
   top: 587px;
 }
+#rectangle_copy_2 {
+    position: absolute;
+    left: 37.6%;
+    right: 4%;
+    top: 31.05%;
+    bottom: 65.82%;
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+}
+#report-train-issue {
+    position: absolute;
+    left: 5.07%;
+    right: 21.87%;
+    top: 8.98%;
+    bottom: 87.3%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+#line {
+    position: absolute;
+    left: 8.53%;
+    right: 64.8%;
+    top: 18.85%;
+    bottom: 78.81%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#direction {
+    position: absolute;
+    left: 8.53%;
+    right: 64.8%;
+    top: 22.75%;
+    bottom: 74.9%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#train-stop {
+    position: absolute;
+    left: 8.53%;
+    right: 64.8%;
+    top: 26.95%;
+    bottom: 70.7%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#vehicle-ID {
+    position: absolute;
+    left: 8.53%;
+    right: 64.8%;
+    top: 31.15%;
+    bottom: 66.5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#time {
+    position: absolute;
+    left: 8.53%;
+    right: 61.07%;
+    top: 34.96%;
+    bottom: 62.7%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#dropdown {
+    position: absolute;
+    left: 37.6%;
+    right: 4%;
+    top: 18.36%;
+    bottom: 78.52%;
+}
+#dropdown-copy {
+    position: absolute;
+    left: 37.6%;
+    right: 4%;
+    top: 22.46%;
+    bottom: 74.41%;
+}
+#dropdown-copy-2 {
+    position: absolute;
+    left: 37.6%;
+    right: 4%;
+    top: 26.56%;
+    bottom: 70.31%;
+}
+#optional {
+    position: absolute;
+    left: 38.13%;
+    right: 8.53%;
+    top: 31.35%;
+    bottom: 66.31%;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #959595;
+}
+#date-picker {
+    position: absolute;
+    left: 10.67%;
+    right: 10.4%;
+    top: 37.99%;
+    bottom: 45.31%;
+}
+#button-switch {
+    position: absolute;
+    left: 4.27%;
+    right: 4.27%;
+    top: 14.06%;
+    bottom: 83.11%;
+}
+#divider {
+    position: absolute;
+    width: 1px;
+    height: 29px;
+    left: calc(50% - 1px/2);
+    top: calc(50% - 29px/2 - 353.5px);
+    background: #007AFF;
+}
+#rectangle {
+    position: absolute;
+    left: 44%;
+    right: 10.13%;
+    top: 92.38%;
+    bottom: 1.46%;
+    background: #0085FF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    border-radius: 9px;
+}
+#submit {
+    position: absolute;
+    left: 51.73%;
+    right: 17.87%;
+    top: 93.95%;
+    bottom: 3.12%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#cancel {
+    position: absolute;
+    left: 9.6%;
+    right: 63.73%;
+    top: 93.85%;
+    bottom: 3.22%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+}
+#issue-type {
+    position: absolute;
+    left: 8.53%;
+    right: 61.07%;
+    top: 55.96%;
+    bottom: 41.7%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #515151;
+}
+#check-all {
+    position: absolute;
+    left: 51.73%;
+    right: 10.67%;
+    top: 56.15%;
+    bottom: 41.99%;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #515151;
+}
+#rectangle {
+    position: absolute;
+    left: 10.67%;
+    right: 10.4%;
+    top: 78.03%;
+    bottom: 17.68%;
+    background: #9CA8B5;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+}
+#rectangle-copy-2 {
+    position: absolute;
+    left: 10.13%;
+    right: 10.13%;
+    top: 83.59%;
+    bottom: 10.25%;
+    background: #FFFFFF;
+    border: 1px solid #979797;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+}
+#issue-type {
+    position: absolute;
+    left: 10.67%;
+    right: 62.67%;
+    top: 58.89%;
+    bottom: 31.35%;
+}
+#issue-type-copy 3 {
+    position: absolute;
+    left: 10.67%;
+    right: 62.67%;
+    top: 68.46%;
+    bottom: 21.78%;
+}
+#issue-type-copy-4 {
+    position: absolute;
+    left: 36.8%;
+    right: 36.53%;
+    top: 68.46%;
+    bottom: 21.78%;
+}
+#issue-type-copy-5 {
+    position: absolute;
+    left: 62.93%;
+    right: 10.4%;
+    top: 68.46%;
+    bottom: 21.78%;
+}
+#issue-type-copy {
+    position: absolute;
+    left: 36.8%;
+    right: 36.53%;
+    top: 58.89%;
+    bottom: 31.35%;
+}
+#issue-type-copy-2 {
+    position: absolute;
+    left: 62.93%;
+    right: 10.4%;
+    top: 58.89%;
+    bottom: 31.35%;
+}
+#other {
+    position: absolute;
+    left: 19.47%;
+    right: 19.2%;
+    top: 79.1%;
+    bottom: 18.55%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+#optional-description {
+    position: absolute;
+    left: 12.8%;
+    right: 39.47%;
+    top: 84.57%;
+    bottom: 13.09%;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #959595;
+}
