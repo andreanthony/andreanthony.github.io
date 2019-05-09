@@ -78,6 +78,8 @@ div {
   height: 73px;
   left: 53px;
   top: 493px;
+  background: #464646;
+  border-radius: 9px;
 }
 #backbutton {
   position: absolute;
@@ -85,6 +87,8 @@ div {
   height: 51px;
   left: 53px;
   top: 587px;
+  background: #464646;
+  border-radius: 9px;
 }
 #rectangle_copy_2 {
     position: absolute;
