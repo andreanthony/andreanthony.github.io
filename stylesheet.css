@@ -21,18 +21,10 @@ div {
   top: 20px;
 }
 #maintext {
-  postion: absolute;
-  width: 304px;
-  height: 56.96px;       
-  left: 35px;
-  top: 85.54px;
+  height: 56.96px;   
 }
 #mainbutton {
-  postion: absolute;
-  width: 264px;
   height: 51px;       
-  left: 55px;
-  top: 161px;
 }
 #separatorgreen {
   postion: absolute;
@@ -42,11 +34,7 @@ div {
   top: 240px;
 }       
 #reportissue {
-  postion: absolute;
-  width: 282px;
-  height: 162px;       
-  left: 47px;
-  top: 289px;
+  height: 162px;
 }
 #separatorred {
   postion: absolute;
@@ -56,11 +44,7 @@ div {
   top: 486px;
 }
 #mainbutton-1 {
-  postion: absolute;
-  width: 264px;
-  height: 51px;       
-  left: 55px;
-  top: 547px;
+  height: 51px;  
 }
 #rectangle {
   position: absolute;
