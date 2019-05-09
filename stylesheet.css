@@ -69,6 +69,8 @@ div {
   height: 51px;
   left: 53px;
   top: 421px;
+  background: #464646;
+  border-radius: 9px;
 }
 #request {
   position: absolute;
