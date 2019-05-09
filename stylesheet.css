@@ -21,7 +21,11 @@ div {
   top: 20px;
 }
 #maintext { 
-  
+  position: absolute;
+  left: 9.33%;
+  right: 9.6%;
+  top: 12.83%;
+  bottom: 78.63%;  
 }
 #mainbutton {
   position: absolute;
