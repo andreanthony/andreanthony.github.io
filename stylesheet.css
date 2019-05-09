@@ -23,7 +23,15 @@ div {
 #maintext {  
 }
 #mainbutton {
-  height: 51px;       
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: 55px;
+  top: 161px;
+  font-size: 24px;
+  background: #464646;
+  border-radius: 9px;
+  color: #FFFFFF;
 }
 #separatorgreen {
   postion: absolute;
