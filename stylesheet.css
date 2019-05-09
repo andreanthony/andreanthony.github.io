@@ -1,7 +1,7 @@
 div {
   text-align: center;
   font-family: 'Roboto';
-  font-size: 26pt;
+  font-size: 26px;
   color: #00000;
   border: 0px;
   padding: 0px;
@@ -20,7 +20,8 @@ div {
   left: 0px;
   top: 20px;
 }
-#maintext {  
+#maintext { 
+  
 }
 #mainbutton {
   position: absolute;
