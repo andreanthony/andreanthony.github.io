@@ -20,8 +20,7 @@ div {
   left: 0px;
   top: 20px;
 }
-#maintext {
-  height: 56.96px;   
+#maintext {  
 }
 #mainbutton {
   height: 51px;       
@@ -44,7 +43,6 @@ div {
   top: 486px;
 }
 #mainbutton-1 {
-  height: 51px;  
 }
 #rectangle {
   position: absolute;
