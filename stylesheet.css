@@ -51,6 +51,15 @@ div {
   top: 486px;
 }
 #mainbutton-1 {
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: 55px;
+  top: 547px;
+  font-size: 24px;
+  background: #464646;
+  border-radius: 9px;
+  color: #FFFFFF;
 }
 #rectangle {
   position: absolute;
