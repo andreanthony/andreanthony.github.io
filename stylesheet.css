@@ -44,13 +44,38 @@ div {
   height: 25px;       
   left: -2px;
   top: 240px;
-}       
+}
 #reportissue {
   position: absolute;
-  width: 282px;
-  height: 162px;
-  left: 47px;
-  top: 289px;
+  left: 26.13%;
+  right: 26.13%;
+  top: 43.33%;
+  bottom: 52.47%;
+  font-size: 24px;
+}
+#bus {
+  position: absolute;
+  left: 12.53%;
+  right: 55.2%;
+  top: 50.07%;
+  bottom: 32.38%;
+  background: #0085FF;
+  border: 2px solid #464646;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
+  border-radius: 9px;
+}
+#train {
+  position: absolute;
+  left: 55.47%;
+  right: 12.27%;
+  top: 50.07%;
+  bottom: 32.38%;
+  background: #0085FF;
+  border: 2px solid #464646;
+  box-sizing: border-box;
+  box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
+  border-radius: 9px;
 }
 #separatorred {
   position: absolute;
