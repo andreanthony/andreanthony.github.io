@@ -443,27 +443,6 @@ div {
   left: 238px;
   top: 746px;
 }
-#bell {
-  position: absolute;
-  width: 38.5px;
-  height: 40.04px;
-  left: 82px;
-  top: 760px;
-}
-#alert {
-  position: absolute;
-  width: 47px;
-  height: 59px;
-  left: 164px;
-  top: 755px;
-}
-#star {
-  position: absolute;
-  width: 47px;
-  height: 59px;
-  left: 249px;
-  top: 756px;
-}
 #getalerts {
   position: absolute;
   width: 83px;
@@ -555,4 +534,79 @@ div {
   top: 1669px;
   font-size: 16px;
   line-height: 19px;
+}
+#desktopheader {
+  position: absolute;
+  width: 1441px;
+  height: 80px;
+  left: 0px;
+  top: 0px;  
+}
+#blueline {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 3.27%;
+  bottom: 96.73%;
+  border: 5px solid #1BA4E3;
+}
+#purpleline {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 3.47%;
+  bottom: 96.53%;
+  border: 5px solid #493390;
+}
+#ourtool2 {
+  position: absolute;
+  width: 322px;
+  height: 46px;
+  left: calc(50% - 322px/2 - 315.5px);
+  top: 724px;
+  font-size: 52px;
+}
+#logo2 {
+  position: absolute;
+  width: 103px;
+  height: 111.89px;
+  left: 670px;
+  top: 658px;
+}
+#logo2 {
+  position: absolute;
+  width: 103px;
+  height: 111.89px;
+  left: 670px;
+  top: 658px;
+}
+#transittalkallows2 {
+  position: absolute;
+  width: 385px;
+  height: 96px;
+  left: calc(50% - 385px/2 + 352px);
+  top: 679px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#desktopellipse {
+  position: absolute;
+  width: 178px;
+  height: 178px;
+  left: 265px;
+  top: 970px;
+}
+#desktopellipse-1 {
+  position: absolute;
+  width: 178px;
+  height: 178px;
+  left: 632px;
+  top: 970px;
+}
+#desktopellipse-2 {
+  position: absolute;
+  width: 178px;
+  height: 178px;
+  left: 1006px;
+  top: 970px;
 }
