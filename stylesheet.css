@@ -557,6 +557,14 @@ div {
   top: 3.47%;
   bottom: 96.53%;
   border: 5px solid #493390;
+#headertext2 {
+  position: absolute;
+  width: 483.65px;
+  height: 46px;
+  left: 478.68px;
+  top: 235px;
+  font-weight: 500;
+  font-size: 36px;
 }
 #ourtool2 {
   position: absolute;
