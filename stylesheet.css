@@ -181,7 +181,7 @@ div {
     top: 26.95%;
     font-weight: bold;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     color: #515151;
 }
 #vehicle-ID {
@@ -229,8 +229,6 @@ div {
     left: 38.13%;
     right: 8.53%;
     top: 31.35%;
-    bottom: 66.31%;
-    font-family: Roboto;
     font-style: italic;
     font-weight: normal;
     font-size: 20px;
@@ -276,10 +274,6 @@ div {
     left: 51.73%;
     right: 17.87%;
     top: 93.95%;
-    bottom: 3.12%;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 26px;
     line-height: 30px;
     text-align: center;
@@ -290,10 +284,6 @@ div {
     left: 9.6%;
     right: 63.73%;
     top: 93.85%;
-    bottom: 3.22%;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 26px;
     line-height: 30px;
     text-align: center;
@@ -304,9 +294,6 @@ div {
     left: 8.53%;
     right: 61.07%;
     top: 55.96%;
-    bottom: 41.7%;
-    font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 20px;
     line-height: 24px;
@@ -317,8 +304,6 @@ div {
     left: 51.73%;
     right: 10.67%;
     top: 56.15%;
-    bottom: 41.99%;
-    font-family: Roboto;
     font-style: italic;
     font-weight: normal;
     font-size: 16px;
@@ -394,10 +379,6 @@ div {
     left: 19.47%;
     right: 19.2%;
     top: 79.1%;
-    bottom: 18.55%;
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 20px;
     line-height: 24px;
     text-align: center;
@@ -408,8 +389,6 @@ div {
     left: 12.8%;
     right: 39.47%;
     top: 84.57%;
-    bottom: 13.09%;
-    font-family: Roboto;
     font-style: italic;
     font-weight: normal;
     font-size: 20px;
