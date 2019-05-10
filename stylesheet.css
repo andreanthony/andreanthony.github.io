@@ -161,7 +161,7 @@ div {
     top: 18.85%;
     font-weight: bold;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     color: #515151;
 }
 #direction {
@@ -171,7 +171,7 @@ div {
     top: 22.75%;
     font-weight: bold;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     color: #515151;
 }
 #train-stop {
@@ -190,7 +190,7 @@ div {
     right: 64.8%;
     top: 31.15%;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     color: #515151;
 }
 #time {
@@ -200,7 +200,7 @@ div {
     top: 34.96%;
     font-weight: bold;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     color: #515151;
 }
 #dropdown {
