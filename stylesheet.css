@@ -618,32 +618,29 @@ div {
   left: 1006px;
   top: 970px;
 }
-#getalerts {
+#getalerts2 {
   position: absolute;
-  width: 83px;
-  height: 33px;
-  left: 58px;
-  top: 822px;
-  font-size: 14px;
-  line-height: 16px;
+  width: 182.73px;
+  height: 72.65px;
+  left: calc(50% - 182.73px/2 - 368.13px);
+  top: 1152px;
+  font-size: 36px;
 }
-#reportissues {
+#reportissues2 {
   position: absolute;
-  width: 45px;
-  height: 33px;
-  left: 165px;
-  top: 822px;
-  font-size: 14px;
-  line-height: 16px;
+  width: 141px;
+  height: 73px;
+  left: calc(50% - 141px/2);
+  top: 1152px;
+  font-size: 36px;
 }
-#favoritestops {
+#favoritestops2 {
   position: absolute;
-  width: 53px;
-  height: 33px;
-  left: 246px;
-  top: 822px;
-  font-size: 14px;
-  line-height: 16px;
+  width: 165px;
+  height: 73px;
+  left: calc(50% - 165px/2 + 372px);
+  top: 1152px;
+  font-size: 36px;
 }
 #ourmission2 {
   position: absolute;
