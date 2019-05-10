@@ -594,7 +594,6 @@ div {
   height: 96px;
   left: calc(50% - 385px/2 + 352px);
   top: 679px;
-  font-weight: bold;
   font-size: 24px;
 }
 #desktopellipse {
@@ -672,7 +671,6 @@ div {
   height: 96px;
   left: calc(50% - 486px/2 + 375.5px);
   bottom: 741px;
-  font-weight: bold;
   font-size: 24px;
 }
 #tryit2 {
@@ -700,6 +698,5 @@ div {
   height: 85px;
   left: calc(50% - 512px/2 + 23.5px);
   bottom: 153px;
-  font-weight: bold;
   font-size: 24px;
 }
