@@ -610,3 +610,91 @@ div {
   left: 1006px;
   top: 970px;
 }
+#getalerts {
+  position: absolute;
+  width: 83px;
+  height: 33px;
+  left: 58px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#reportissues {
+  position: absolute;
+  width: 45px;
+  height: 33px;
+  left: 165px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#favoritestops {
+  position: absolute;
+  width: 53px;
+  height: 33px;
+  left: 246px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#ourmission2 {
+  position: absolute;
+  width: 344px;
+  height: 46px;
+  left: calc(50% - 344px/2 + 321.5px);
+  bottom: 1171px;
+  font-size: 52px;
+}
+#mission2 {
+  position: absolute;
+  width: 404px;
+  height: 96px;
+  left: calc(50% - 404px/2 - 263.5px);
+  bottom: 1146px;
+  font-size: 24px;
+}
+#ourteam2 {
+  position: absolute;
+  width: 340px;
+  height: 46px;
+  left: calc(50% - 340px/2 - 319.5px);
+  bottom: 748px;
+  font-size: 52px;
+}
+#team2 {
+  position: absolute;
+  width: 486px;
+  height: 96px;
+  left: calc(50% - 486px/2 + 375.5px);
+  bottom: 741px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#tryit2 {
+  position: absolute;
+  width: 768px;
+  height: 46px;
+  left: calc(50% - 768px/2 + 0.5px);
+  bottom: 401px;
+  font-size: 52px;
+}
+#github3 {
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: calc(50% - 264px/2 + 0.5px);
+  bottom: 287px;
+  font-size: 24px;
+  background: #464646;
+  border-radius: 9px;
+  color: #FFFFFF;
+}
+#city2 {
+  position: absolute;
+  width: 512px;
+  height: 85px;
+  left: calc(50% - 512px/2 + 23.5px);
+  bottom: 153px;
+  font-weight: bold;
+  font-size: 24px;
+}
