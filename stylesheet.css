@@ -538,6 +538,16 @@ div {
   font-weight: bold;
   font-size: 24px;
 }
+#github2 {
+  position: absolute;
+  width: 264px;
+  height: 51px;
+  left: 56px;
+  top: 1569px;
+  font-size: 24px;
+  background: #464646;
+  border-radius: 9px;
+  color: #FFFFFF;
 #city {
   position: absolute;
   width: 259px;
