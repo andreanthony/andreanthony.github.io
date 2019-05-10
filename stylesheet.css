@@ -397,3 +397,165 @@ div {
   font-weight: 500;
   font-size: 36px;
 }
+#ourtool {
+  position: absolute;
+  width: 125px;
+  height: 24px;
+  left: 125px;
+  top: 395px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#logo {
+  position: absolute;
+  width: 103px;
+  height: 111.89px;
+  left: 136px;
+  top: 451px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#transittalkallows {
+  position: absolute;
+  width: 257px;
+  height: 118px;
+  left: 59px;
+  top: 583px;
+  font-size: 16px;
+  line-height: 19px;
+}
+#ellipse {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 66px;
+  top: 746px;
+  background: #1BA4E3;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+}
+#ellipse-1 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 153px;
+  top: 746px;
+  background: #FEF035;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+}
+#ellipse-2 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 238px;
+  top: 746px;
+  background: #DE1D41;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  backdrop-filter: blur(4px);
+}
+#bell {
+  position: absolute;
+  width: 38.5px;
+  height: 40.04px;
+  left: 82px;
+  top: 760px;
+  background: #F2F2F2; 
+}
+#alert {
+  position: absolute;
+  width: 47px;
+  height: 59px;
+  left: 164px;
+  top: 755px;
+}
+#star {
+  position: absolute;
+  width: 47px;
+  height: 59px;
+  left: 249px;
+  top: 756px;
+}
+#getalerts {
+  position: absolute;
+  width: 83px;
+  height: 33px;
+  left: 58px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#reportissues {
+  position: absolute;
+  width: 45px;
+  height: 33px;
+  left: 165px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#favoritestops {
+  position: absolute;
+  width: 53px;
+  height: 33px;
+  left: 246px;
+  top: 822px;
+  font-size: 14px;
+  line-height: 16px;
+}
+#ourmission {
+  position: absolute;
+  width: 347px;
+  height: 24px;
+  left: 10px;
+  top: 894px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#mission {
+  position: absolute;
+  width: 255px;
+  height: 90px;
+  left: 60px;
+  top: 949px;
+  font-size: 16px;
+  line-height: 19px;
+}
+#ourteam {
+  position: absolute;
+  width: 347px;
+  height: 24px;
+  left: 10px;
+  top: 1182px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#team {
+  position: absolute;
+  width: 347px;
+  height: 24px;
+  left: 10px;
+  top: 1182px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#tryit {
+  position: absolute;
+  width: 347px;
+  height: 24px;
+  left: 10px;
+  top: 1500px;
+  font-weight: bold;
+  font-size: 24px;
+}
+#city {
+  position: absolute;
+  width: 259px;
+  height: 85px;
+  left: 56px;
+  top: 1669px;
+  font-size: 16px;
+  line-height: 19px;
+}
