@@ -428,11 +428,7 @@ div {
   width: 70px;
   height: 70px;
   left: 66px;
-  top: 746px;
-  background: #1BA4E3;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  backdrop-filter: blur(4px);
+  top: 746px;  
 }
 #ellipse-1 {
   position: absolute;
@@ -440,10 +436,6 @@ div {
   height: 70px;
   left: 153px;
   top: 746px;
-  background: #FEF035;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  backdrop-filter: blur(4px);
 }
 #ellipse-2 {
   position: absolute;
@@ -451,10 +443,6 @@ div {
   height: 70px;
   left: 238px;
   top: 746px;
-  background: #DE1D41;
-  border: 1px solid #000000;
-  box-sizing: border-box;
-  backdrop-filter: blur(4px);
 }
 #bell {
   position: absolute;
