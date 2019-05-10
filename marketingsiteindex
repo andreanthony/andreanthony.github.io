@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <title>Marketing Page Desktop</title>
+</head>
+<body style="
+  margin: auto;
+  position: relative;
+  width: 1441px;
+  height: 2596px;
+  background: #F8F8F8;
+">
+ <div id="desktopheader"><img src="/destopheader.png" alt="desktopheader" /></div>
+ <div id="blueline"></div>
+ <div id="purpleline"></div>
+ <div id="headertext">Help us make public transit better.</div>
+ <div id="ourtool2">Our Tool</div>
+ <div id="logo2"><img src="/logo.png" alt="separatorgreen" /></div>
+ <div id="transittalkallows2">Transit Talk allows users to quickly submit issue reports, generating a real time, crowd-sourced map of issues that can ultimately be used by transit advocates, transit agencies, and transit riders.</div>
+ <div id="desktopellipse"><img src="/getAlerts.png" alt="ellipse" /></div>
+ <div id="desktopellipse-1"><img src="/reportIssues.png" alt="ellipse-1" /></div>
+ <div id="desktopellipse-2"><img src="/favStops.png" alt="ellipse-2" /></div>
+ <div id="getalerts">Get Alerts</div>
+ <div id="reportissues">Report Issues</div>
+ <div id="favoritestops">Report Issues</div>
+ <div id="ourmission2">Our Mission</div>  
+ <div id="mission2">By creating a transparent flow of information of the issues riders encounter, we aim to help the CTA be more responsive to riders’ needs and empower them to push for system improvements.</div>
+ <div id="ourteam2">Our Team</div>
+ <div id="team2">Transit Talk is a volunteer project that emerged out of Chi Hack Night, a community of designers, academic researchers, data journalists, activists, policy advocates, and web developers who come together weekly to learn and work on civic tech projects.</div>
+ <div id="tryit2">Try it in Your City!</div>
+ <div id="github3"><p style="margin: 11px;">Visit Our GitHub</p></div>
+ <div id="city2">Transit Talk is built for more places than just Chicago. Using a universal data standard called GTFS, which is used by transit agencies around the world, you can easily get your own local version of Transit Talk running. Checkout the README on our GitHub repository to see how!</div>
+</body>
+</html>
