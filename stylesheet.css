@@ -12,6 +12,7 @@ div {
   right: 0%;
   top: 0%;
   background: #FFFFFF;
+  line-height: 20px;
 }
 #header {
   postion: absolute;
