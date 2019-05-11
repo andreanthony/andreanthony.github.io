@@ -216,21 +216,20 @@ div {
   right: 40px;
   top: 92.38%;
   bottom: 1.46%;
-  background: #0085FF;
+  background: #007AFF;
   border: 1px solid #979797;
   box-sizing: border-box;
   border-radius: 9px;
+  width: 149px;
 }
 #submit {
-  left: 51.73%;
-  right: 17.87%;
+  right: 73px;
   top: 93.95%;
   font-size: 26px;
-  text-align: center;
   color: #FFFFFF;
 }
 #cancel {
-  left: 9.6%;
+  left: 73px;
   right: 63.73%;
   top: 93.85%;
   font-size: 26px;
