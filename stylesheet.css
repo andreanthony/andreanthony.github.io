@@ -7,11 +7,28 @@ div {
   padding: 0px;
   position: absolute;
 }
+body {
+  margin: auto;
+  position: relative;
+  background-color: #EFEFF4;
+  height: 1024px;
+  width: 375px;
+}
+header {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #00000;
+  border: 0px;
+  padding: 0px;
+  position: absolute;
+}
+h1 {
+  font-size: 32px;
+  font-weight: normal;
+  margin-top: 7px;
+}
 #bar {
-  left: 0%;
-  right: 0%;
-  top: 0%;
-  background: #FFFFFF;
   line-height: 20px;
 }
 #header {
