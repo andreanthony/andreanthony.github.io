@@ -5,10 +5,9 @@ div {
   color: #00000;
   border: 0px;
   padding: 0px;
-  postion: absolute;
+  position: absolute;
 }
 #bar {
-  postion: absolute;
   left: 0%;
   right: 0%;
   top: 0%;
@@ -16,79 +15,66 @@ div {
   line-height: 20px;
 }
 #header {
-  postion: absolute;
   width: 375px;
   height: 50px;
   left: 0px;
   top: 20px;
 }
 #maintext { 
-  position: absolute;
   left: 9.33%;
   right: 9.6%;
   top: 12.83%;
   bottom: 78.63%;  
 }
 #mainbutton {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: 55px;
   top: 161px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #separatorgreen {
-  position: absolute;
   width: 377px;
   height: 25px;       
   left: -2px;
   top: 240px;
 }
 #reportissue {
-  position: absolute;
   left: 26.13%;
   right: 26.13%;
   top: 43.33%;
   bottom: 52.47%;
-  font-size: 24px;
 }
 #bus {
-  position: absolute;
   left: 12.53%;
   right: 55.2%;
   top: 50.07%;
   bottom: 32.38%;  
 }
 #train {
-  position: absolute;
   left: 55.47%;
   right: 12.27%;
   top: 50.07%;
   bottom: 32.38%;
 }
 #separatorred {
-  position: absolute;
   width: 377px;
   height: 25px;       
   left: -2px;
   top: 486px;
 }
 #mainbutton-1 {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: 55px;
   top: 547px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #rectangle {
-  position: absolute;
   left: 0%;
   right: 0%;
   top: 10.34%;
@@ -98,7 +84,6 @@ div {
   opacity: 0;
 }
 #transittalkabout {
-  position: absolute;
   left: 9.33%;
   right: 9.6%;
   top: 11.84%;
@@ -107,287 +92,248 @@ div {
   text-align: left;
 }
 #github {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: 53px;
   top: 421px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #request {
-  position: absolute;
   width: 264px;
   height: 73px;
   left: 53px;
   top: 493px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #backbutton {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: 53px;
   top: 587px;
 }
 #rectangle_copy_2 {
-    position: absolute;
-    left: 37.6%;
-    right: 4%;
-    top: 31.05%;
-    bottom: 65.82%;
-    background: #FFFFFF;
-    border: 1px solid #979797;
-    box-sizing: border-box;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+  left: 37.6%;
+  right: 4%;
+  top: 31.05%;
+  bottom: 65.82%;
+  background: #FFFFFF;
+  border: 1px solid #979797;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
 }
 #report-train-issue {
-    position: absolute;
-    left: 5.07%;
-    right: 21.87%;
-    top: 8.98%;
-    font-size: 32px; 
-    text-align: left;
+  left: 5.07%;
+  right: 21.87%;
+  top: 8.98%;
+  font-size: 32px; 
+  text-align: left;
 }
 #line {
-    position: absolute;
-    left: 8.53%;
-    right: 64.8%;
-    top: 18.85%;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: left;
-    color: #515151;
+  left: 8.53%;
+  right: 64.8%;
+  top: 18.85%;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  color: #515151;
 }
 #direction {
-    position: absolute;
-    left: 8.53%;
-    right: 64.8%;
-    top: 22.75%;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: left;
-    color: #515151;
+  left: 8.53%;
+  right: 64.8%;
+  top: 22.75%;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  color: #515151;
 }
 #train-stop {
-    position: absolute;
-    left: 8.53%;
-    right: 64.8%;
-    top: 26.95%;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: left;
-    color: #515151;
+  left: 8.53%;
+  right: 64.8%;
+  top: 26.95%;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  color: #515151;
 }
 #vehicle-ID {
-    position: absolute;
-    left: 8.53%;
-    right: 64.8%;
-    top: 31.15%;
-    font-size: 20px;
-    text-align: left;
-    color: #515151;
+  left: 8.53%;
+  right: 64.8%;
+  top: 31.15%;
+  font-size: 20px;
+  text-align: left;
+  color: #515151;
 }
 #time {
-    position: absolute;
-    left: 8.53%;
-    right: 61.07%;
-    top: 34.96%;
-    font-weight: bold;
-    font-size: 20px;
-    text-align: left;
-    color: #515151;
+  left: 8.53%;
+  right: 61.07%;
+  top: 34.96%;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  color: #515151;
 }
 #dropdown {
-    position: absolute;
-    left: 37.6%;
-    right: 4%;
-    top: 18.36%;
-    bottom: 78.52%;
+  left: 37.6%;
+  right: 4%;
+  top: 18.36%;
+  bottom: 78.52%;
 }
 #dropdown-copy {
-    position: absolute;
-    left: 37.6%;
-    right: 4%;
-    top: 22.46%;
-    bottom: 74.41%;
+  left: 37.6%;
+  right: 4%;
+  top: 22.46%;
+  bottom: 74.41%;
 }
 #dropdown-copy-2 {
-    position: absolute;
-    left: 37.6%;
-    right: 4%;
-    top: 26.56%;
-    bottom: 70.31%;
+  left: 37.6%;
+  right: 4%;
+  top: 26.56%;
+  bottom: 70.31%;
 }
 #optional {
-    position: absolute;
-    left: 38.13%;
-    right: 8.53%;
-    top: 31.35%;
-    font-style: italic;
-    font-weight: normal;
-    font-size: 20px;
-    text-align: center;
-    color: #959595;
+  left: 38.13%;
+  right: 8.53%;
+  top: 31.35%;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 20px;
+  color: #959595;
 }
 #date-picker {
-    position: absolute;
-    left: 10.67%;
-    right: 10.4%;
-    top: 37.99%;
-    bottom: 45.31%;
+  left: 10.67%;
+  right: 10.4%;
+  top: 37.99%;
+  bottom: 45.31%;
 }
 #button-switch {
-    position: absolute;
-    left: 4.27%;
-    right: 4.27%;
-    top: 14.06%;
-    bottom: 83.11%;
+  left: 4.27%;
+  right: 4.27%;
+  top: 14.06%;
+  bottom: 83.11%;
 }
 #divider {
-    position: absolute;
-    width: 1px;
-    height: 29px;
-    left: calc(50% - 1px/2);
-    top: calc(50% - 29px/2 - 353.5px);
-    background: #007AFF;
+  width: 1px;
+  height: 29px;
+  left: calc(50% - 1px/2);
+  top: calc(50% - 29px/2 - 353.5px);
+  background: #007AFF;
 }
 #rectangle-2 {
-    position: absolute;
-    left: 44%;
-    right: 10.13%;
-    top: 92.38%;
-    bottom: 1.46%;
-    background: #0085FF;
-    border: 1px solid #979797;
-    box-sizing: border-box;
-    border-radius: 9px;
+  left: 44%;
+  right: 10.13%;
+  top: 92.38%;
+  bottom: 1.46%;
+  background: #0085FF;
+  border: 1px solid #979797;
+  box-sizing: border-box;
+  border-radius: 9px;
 }
 #submit {
-    position: absolute;
-    left: 51.73%;
-    right: 17.87%;
-    top: 93.95%;
-    font-size: 26px;
-    text-align: center;
-    color: #FFFFFF;
+  left: 51.73%;
+  right: 17.87%;
+  top: 93.95%;
+  font-size: 26px;
+  text-align: center;
+  color: #FFFFFF;
 }
 #cancel {
-    position: absolute;
-    left: 9.6%;
-    right: 63.73%;
-    top: 93.85%;
-    font-size: 26px;
-    text-align: center;
-    color: #000000;
+  left: 9.6%;
+  right: 63.73%;
+  top: 93.85%;
+  font-size: 26px;
+  color: #000000;
 }
 #issue-type {
-    position: absolute;
-    left: 8.53%;
-    right: 61.07%;
-    top: 55.96%;
-    font-weight: bold;
-    font-size: 20px;
-    color: #515151;
+  left: 8.53%;
+  right: 61.07%;
+  top: 55.96%;
+  font-weight: bold;
+  font-size: 20px;
+  color: #515151;
 }
 #check-all {
-    position: absolute;
-    left: 51.73%;
-    right: 10.67%;
-    top: 56.15%;
-    font-style: italic;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 19px;
-    text-align: right;
-    color: #515151;
+  left: 51.73%;
+  right: 10.67%;
+  top: 56.15%;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right;
+  color: #515151;
 }
 #rectangle-gray {
-    position: absolute;
-    left: 10.67%;
-    right: 10.4%;
-    top: 78.03%;
-    bottom: 17.68%;
-    background: #9CA8B5;
-    border: 2px solid #000000;
-    box-sizing: border-box;
+  left: 10.67%;
+  right: 10.4%;
+  top: 78.03%;
+  bottom: 17.68%;
+  background: #9CA8B5;
+  border: 2px solid #000000;
+  box-sizing: border-box;
 }
 #rectangle-copy-2 {
-    position: absolute;
-    left: 10.13%;
-    right: 10.13%;
-    top: 83.59%;
-    bottom: 10.25%;
-    background: #FFFFFF;
-    border: 1px solid #979797;
-    box-sizing: border-box;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+  left: 10.13%;
+  right: 10.13%;
+  top: 83.59%;
+  bottom: 10.25%;
+  background: #FFFFFF;
+  border: 1px solid #979797;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
 }
 #issue-type-0 {
-    position: absolute;
-    left: 10.67%;
-    right: 62.67%;
-    top: 58.89%;
-    bottom: 31.35%;
+  left: 10.67%;
+  right: 62.67%;
+  top: 58.89%;
+  bottom: 31.35%;
 }
 #issue-type-copy-3 {
-    position: absolute;
-    left: 10.67%;
-    right: 62.67%;
-    top: 68.46%;
-    bottom: 21.78%;
+  left: 10.67%;
+  right: 62.67%;
+  top: 68.46%;
+  bottom: 21.78%;
 }
 #issue-type-copy-4 {
-    position: absolute;
-    left: 36.8%;
-    right: 36.53%;
-    top: 68.46%;
-    bottom: 21.78%;
+  left: 36.8%;
+  right: 36.53%;
+  top: 68.46%;
+  bottom: 21.78%;
 }
 #issue-type-copy-5 {
-    position: absolute;
-    left: 62.93%;
-    right: 10.4%;
-    top: 68.46%;
-    bottom: 21.78%;
+  left: 62.93%;
+  right: 10.4%;
+  top: 68.46%;
+  bottom: 21.78%;
 }
 #issue-type-copy {
-    position: absolute;
-    left: 36.8%;
-    right: 36.53%;
-    top: 58.89%;
-    bottom: 31.35%;
+  left: 36.8%;
+  right: 36.53%;
+  top: 58.89%;
+  bottom: 31.35%;
 }
 #issue-type-copy-2 {
-    position: absolute;
-    left: 62.93%;
-    right: 10.4%;
-    top: 58.89%;
-    bottom: 31.35%;
+  left: 62.93%;
+  right: 10.4%;
+  top: 58.89%;
+  bottom: 31.35%;
 }
 #other {
-    position: absolute;
-    left: 19.47%;
-    right: 19.2%;
-    top: 79.1%;
-    font-size: 20px;
-    text-align: center;
-    color: #FFFFFF;
+  left: 19.47%;
+  right: 19.2%;
+  top: 79.1%;
+  font-size: 20px;
+  color: #FFFFFF;
 }
 #optional-description {
-    position: absolute;
-    left: 12.8%;
-    right: 39.47%;
-    top: 84.57%;
-    font-style: italic;
-    font-weight: normal;
-    font-size: 20px;
-    color: #959595;
+  left: 12.8%;
+  right: 39.47%;
+  top: 84.57%;
+  font-style: italic;
+  font-size: 20px;
+  color: #959595;
 }
 #headertext {
   position: absolute;
@@ -399,23 +345,19 @@ div {
   font-size: 36px;
 }
 #ourtool {
-  position: absolute;
   width: 125px;
   height: 24px;
   left: 125px;
   top: 395px;
   font-weight: bold;
-  font-size: 24px;
 }
 #logo {
-  position: absolute;
   width: 103px;
   height: 111.89px;
   left: 136px;
   top: 451px;
 }
 #transittalkallows {
-  position: absolute;
   width: 257px;
   height: 118px;
   left: 59px;
@@ -424,28 +366,24 @@ div {
   line-height: 19px;
 }
 #ellipse {
-  position: absolute;
   width: 70px;
   height: 70px;
   left: 66px;
   top: 746px;  
 }
 #ellipse-1 {
-  position: absolute;
   width: 70px;
   height: 70px;
   left: 153px;
   top: 746px;
 }
 #ellipse-2 {
-  position: absolute;
   width: 70px;
   height: 70px;
   left: 238px;
   top: 746px;
 }
 #getalerts {
-  position: absolute;
   width: 83px;
   height: 33px;
   left: 58px;
@@ -454,7 +392,6 @@ div {
   line-height: 16px;
 }
 #reportissues {
-  position: absolute;
   width: 45px;
   height: 33px;
   left: 165px;
@@ -463,7 +400,6 @@ div {
   line-height: 16px;
 }
 #favoritestops {
-  position: absolute;
   width: 53px;
   height: 33px;
   left: 246px;
@@ -472,16 +408,13 @@ div {
   line-height: 16px;
 }
 #ourmission {
-  position: absolute;
   width: 347px;
   height: 24px;
   left: 10px;
   top: 894px;
   font-weight: bold;
-  font-size: 24px;
 }
 #mission {
-  position: absolute;
   width: 255px;
   height: 90px;
   left: 60px;
@@ -490,16 +423,13 @@ div {
   line-height: 19px;
 }
 #ourteam {
-  position: absolute;
   width: 347px;
   height: 24px;
   left: 10px;
   top: 1182px;
   font-weight: bold;
-  font-size: 24px;
 }
 #team {
-  position: absolute;
   width: 249px;
   height: 90px;
   left: 59px;
@@ -508,7 +438,6 @@ div {
   line-height: 19px;
 }
 #tryit {
-  position: absolute;
   width: 347px;
   height: 24px;
   left: 10px;
@@ -517,18 +446,15 @@ div {
   font-size: 24px;
 }
 #github2 {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: 56px;
   top: 1569px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #city {
-  position: absolute;
   width: 259px;
   height: 85px;
   left: 56px;
@@ -537,14 +463,12 @@ div {
   line-height: 19px;
 }
 #desktopheader {
-  position: absolute;
   width: 1441px;
   height: 80px;
   left: 0px;
   top: 0px;  
 }
 #blueline {
-  position: absolute;
   left: 0%;
   right: 0%;
   top: 3.27%;
@@ -552,7 +476,6 @@ div {
   border: 5px solid #1BA4E3;
 }
 #purpleline {
-  position: absolute;
   left: 0%;
   right: 0%;
   top: 3.47%;
@@ -560,7 +483,6 @@ div {
   border: 5px solid #493390;
 }
 #headertext2 {
-  position: absolute;
   width: 483.65px;
   height: 46px;
   left: 478.68px;
@@ -569,7 +491,6 @@ div {
   font-size: 36px;
 }
 #ourtool2 {
-  position: absolute;
   width: 322px;
   height: 46px;
   left: calc(50% - 322px/2 - 315.5px);
@@ -577,22 +498,18 @@ div {
   font-size: 52px;
 }
 #logo2 {
-  position: absolute;
   width: 103px;
   height: 111.89px;
   left: 669px;
   top: 658px;
 }
 #transittalkallows2 {
-  position: absolute;
   width: 385px;
   height: 96px;
   left: calc(50% - 385px/2 + 352px);
   top: 679px;
-  font-size: 24px;
 }
 #desktopellipse {
-  position: absolute;
   width: 178px;
   height: 178px;
   left: 265px;
@@ -606,14 +523,12 @@ div {
   top: 970px;
 }
 #desktopellipse-2 {
-  position: absolute;
   width: 178px;
   height: 178px;
   left: 1006px;
   top: 970px;
 }
 #getalerts2 {
-  position: absolute;
   width: 182.73px;
   height: 72.65px;
   left: calc(50% - 182.73px/2 - 368.13px);
@@ -621,7 +536,6 @@ div {
   font-size: 36px;
 }
 #reportissues2 {
-  position: absolute;
   width: 141px;
   height: 73px;
   left: calc(50% - 141px/2);
@@ -629,7 +543,6 @@ div {
   font-size: 36px;
 }
 #favoritestops2 {
-  position: absolute;
   width: 165px;
   height: 73px;
   left: calc(50% - 165px/2 + 372px);
@@ -637,7 +550,6 @@ div {
   font-size: 36px;
 }
 #ourmission2 {
-  position: absolute;
   width: 344px;
   height: 46px;
   left: calc(50% - 344px/2 + 321.5px);
@@ -645,15 +557,12 @@ div {
   font-size: 52px;
 }
 #mission2 {
-  position: absolute;
   width: 404px;
   height: 96px;
   left: calc(50% - 404px/2 - 263.5px);
   bottom: 1146px;
-  font-size: 24px;
 }
 #ourteam2 {
-  position: absolute;
   width: 340px;
   height: 46px;
   left: calc(50% - 340px/2 - 319.5px);
@@ -661,15 +570,12 @@ div {
   font-size: 52px;
 }
 #team2 {
-  position: absolute;
   width: 486px;
   height: 96px;
   left: calc(50% - 486px/2 + 375.5px);
   bottom: 741px;
-  font-size: 24px;
 }
 #tryit2 {
-  position: absolute;
   width: 768px;
   height: 46px;
   left: calc(50% - 768px/2 + 0.5px);
@@ -677,21 +583,17 @@ div {
   font-size: 52px;
 }
 #github3 {
-  position: absolute;
   width: 264px;
   height: 51px;
   left: calc(50% - 264px/2 + 0.5px);
   bottom: 287px;
-  font-size: 24px;
   background: #464646;
   border-radius: 9px;
   color: #FFFFFF;
 }
 #city2 {
-  position: absolute;
   width: 512px;
   height: 85px;
   left: 464px;
   bottom: 153px;
-  font-size: 24px;
 }
