@@ -233,10 +233,9 @@ h1 {
   box-sizing: border-box;
 }
 #rectangle-copy-2 {
-  left: 40px;
-  right: 40px;
-  top: 83.59%;
-  bottom: 10.25%;
+  width: 295px;
+  height: 63px;
+  top: 255px;
   background: #FFFFFF;
   border: 1px solid #979797;
   box-sizing: border-box;
