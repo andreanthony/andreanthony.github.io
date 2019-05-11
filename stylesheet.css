@@ -133,7 +133,7 @@ div {
   text-align: left;
 }
 #line {
-  left: 8.53%;
+  left: 40px;
   right: 64.8%;
   top: 18.85%;
   font-weight: bold;
@@ -142,7 +142,7 @@ div {
   color: #515151;
 }
 #direction {
-  left: 8.53%;
+  left: 40px;
   right: 64.8%;
   top: 22.75%;
   font-weight: bold;
@@ -151,7 +151,7 @@ div {
   color: #515151;
 }
 #train-stop {
-  left: 8.53%;
+  left: 40px;
   right: 64.8%;
   top: 26.95%;
   font-weight: bold;
@@ -160,7 +160,7 @@ div {
   color: #515151;
 }
 #vehicle-ID {
-  left: 8.53%;
+  left: 40px;
   right: 64.8%;
   top: 31.15%;
   font-size: 20px;
@@ -168,7 +168,7 @@ div {
   color: #515151;
 }
 #time {
-  left: 8.53%;
+  left: 40px;
   right: 61.07%;
   top: 34.96%;
   font-weight: bold;
@@ -202,7 +202,7 @@ div {
 }
 #date-picker {
   left: 10.67%;
-  right: 10.4%;
+  right: 40px;
   top: 37.99%;
   bottom: 45.31%;
 }
@@ -221,7 +221,7 @@ div {
 }
 #rectangle-2 {
   left: 44%;
-  right: 10.13%;
+  right: 40px;
   top: 92.38%;
   bottom: 1.46%;
   background: #0085FF;
@@ -245,11 +245,12 @@ div {
   color: #000000;
 }
 #issue-type {
-  left: 8.53%;
+  left: 40px;
   right: 61.07%;
   top: 55.96%;
   font-weight: bold;
   font-size: 20px;
+  text-align: left;
   color: #515151;
 }
 #check-all {
@@ -264,7 +265,7 @@ div {
 }
 #rectangle-gray {
   left: 10.67%;
-  right: 10.4%;
+  right: 40px;
   top: 78.03%;
   bottom: 17.68%;
   background: #9CA8B5;
@@ -301,7 +302,7 @@ div {
 }
 #issue-type-copy-5 {
   left: 62.93%;
-  right: 10.4%;
+  right: 40px;
   top: 68.46%;
   bottom: 21.78%;
 }
@@ -313,7 +314,7 @@ div {
 }
 #issue-type-copy-2 {
   left: 62.93%;
-  right: 10.4%;
+  right: 40px;
   top: 58.89%;
   bottom: 31.35%;
 }
