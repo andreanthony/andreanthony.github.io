@@ -126,11 +126,9 @@ div {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
 }
 #report-train-issue {
-  left: 5.07%;
-  right: 21.87%;
+  left: 58.49px;
   top: 8.98%;
   font-size: 32px; 
-  text-align: left;
 }
 #line {
   left: 40px;
@@ -164,6 +162,7 @@ div {
   right: 64.8%;
   top: 31.15%;
   font-size: 20px;
+  font-weight: bold;
   text-align: left;
   color: #515151;
 }
@@ -212,13 +211,6 @@ div {
   top: 14.06%;
   bottom: 83.11%;
 }
-#divider {
-  width: 1px;
-  height: 29px;
-  left: calc(50% - 1px/2);
-  top: calc(50% - 29px/2 - 353.5px);
-  background: #007AFF;
-}
 #rectangle-2 {
   left: 44%;
   right: 40px;
@@ -242,7 +234,6 @@ div {
   right: 63.73%;
   top: 93.85%;
   font-size: 26px;
-  color: #000000;
 }
 #issue-type {
   left: 40px;
