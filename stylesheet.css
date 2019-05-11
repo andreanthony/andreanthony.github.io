@@ -1,10 +1,11 @@
 div {
   text-align: center;
   font-family: 'Roboto';
-  font-size: 26px;
+  font-size: 24px;
   color: #00000;
   border: 0px;
   padding: 0px;
+  postion: absolute;
 }
 #bar {
   postion: absolute;
