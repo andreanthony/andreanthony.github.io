@@ -225,10 +225,9 @@ h1 {
   color: #515151;
 }
 #rectangle-gray {
-  left: 10.67%;
-  right: 40px;
-  top: 78.03%;
-  bottom: 17.68%;
+  width: 295px;
+  height: 44px;
+  top: 196px;
   background: #9CA8B5;
   border: 2px solid #000000;
   box-sizing: border-box;
