@@ -168,14 +168,19 @@ h1 {
   height: 34px;
   background-color: #FFF;
   font-size: 20px;
+  margin-left: 141px;
+  margin-top: 188px;
 }
 .dropdown-content {
   background-color: #F4F4F4;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
   color: #000000;
-  padding: 12px 45px;
+  padding: 12px 40px;
   font-size: 20px;
+  top: 400px;
+  left: 141px;
+  width: 113px;
 }
 
 .dropdown-content a {
