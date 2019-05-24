@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
   <link href="stylesheet.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-  <title>Train Issue</title>
+  <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <title>Train Issues</title>
 </head>
 <body>
  <header>
@@ -20,6 +19,45 @@
   </div>
   <div class="dropdown">
    <img src="/dropdown.png" alt="dropdown" style="width: 198px; height: 36px;"> 
+   <button onclick="myFunction()" class="dropbtn">Select Line</button> 
+   <div id="myDropdown" class="dropdown-content">
+    <a href="#redline" style="
+    color: #000000;
+">Red Line</a>
+    <a href="#blueline" style="color: #000000;">Blue Line</a>
+    <a href="#brownline" style="color: #000000;">Brown Line</a>
+    <a href="#greenline" style="
+    color: #000000;
+">Green Line</a>
+    <a href="#orangeline" style="
+    color: #000000;
+">Orange Line</a>
+    <a href="#pinkline" style="
+    color: #000000;
+">Pink Line</a>
+    <a href="#purpleline" style="
+    color: #000000;
+">Purple Line</a>    
+  </div>
+</div>
+<script>
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
    <img src="/dropdown copy.png" alt="dropdown-copy" style="width: 198px; height: 36px;">
    <img src="/dropdown copy 2.png" alt="dropdown-copy-2" style="width: 198px; height: 36px;">
   </div>
@@ -46,3 +84,5 @@
  <div id="submit">Submit</div>
 </body>
 </html>
+
+<input class="form-control" name="amount" id="amount" style="width: 198px; height: 36px;">
