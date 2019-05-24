@@ -158,17 +158,18 @@ h1 {
 }
 .dropdown {
   left: 141px;
-  right: 40px;
   top: 188px;
   font-size: 20px;
-  color: #515151;  
+  color: #515151;
+  width: 196px;
+  height: 160px;
 }
 .dropbtn {
   background-color: #FFF;
   font-size: 20px;
   height: 34px;
   width: 196px;
-  position: absolute;
+  margin: 4px 0px;
   top: 188px;
   left: 141px;  
 }
