@@ -12,34 +12,7 @@
   <img src="/2-button-switch.png" alt="button-switch" style="width: 298px;">
  </header>
  <div id="form">
-  <div class="selection">Line  
-   <p>Direction</p>
-   <p>Stop</p><p>VehicleID</p>
-   <p>Time</p>
-  </div>
-  <div class="dropdown">
-   <button onclick="myFunction()" class="dropbtn">Select Line</button>
-   <div id="myDropdown" class="dropdown-content">
-    <a href="#redline" style="
-    color: #000000;
-">Red Line</a>
-    <a href="#blueline" style="color: #000000;">Blue Line</a>
-    <a href="#brownline" style="color: #000000;">Brown Line</a>
-    <a href="#greenline" style="
-    color: #000000;
-">Green Line</a>
-    <a href="#orangeline" style="
-    color: #000000;
-">Orange Line</a>
-    <a href="#pinkline" style="
-    color: #000000;
-">Pink Line</a>
-    <a href="#purpleline" style="
-    color: #000000;
-">Purple Line</a>    
-  </div>
-</div>
-<script>
+  <script>
 function myFunction() {
   document.getElementById("myDropdown").classList.toggle("show");
 }
@@ -56,19 +29,27 @@ window.onclick = function(event) {
     }
   }
 }
-</script>
-   <button onclick="myFunction()" class="dropbtn">Select Direction</button>
-   <button onclick="myFunction()" class="dropbtn">Select Stop</button>
-   <input class="form-control" style="height: 32px; width: 197px; margin: 4px 0px;">
+    </script>
+    <button onclick="myFunction()" class="dropbtn">Select Line</button>
+    <button onclick="myFunction()" class="dropbtn">Select Direction</button>
+    <button onclick="myFunction()" class="dropbtn">Select Stop</button>
+    <input class="form-control" style="height: 32px; width: 197px; margin: 4px 0px;">
+ </div>
+ <div class="selection"><p style="height: 24px; margin-top: 6px; margin-bottom: 6px;">Line</p>  
+   <p style="height: 24px; margin-top: 16px; margin-bottom: 6px;">Direction</p>
+   <p style="height: 24px; margin-bottom: 16px;">Stop</p>
+   <p style="height: 24px; margin-top: 16px;>Vehicle ID</p>
+   <p style="height: 24px; margin-top: 4px;">Time</p>
+ </div>
  <div id="date-picker"><img src="/Date Picker.png" alt="date-picker"></div>
  <div id="issue-type">Issue type</div>
  <div id="check-all">check all that apply</div>
-  <div class="issue-type">
+ <div class="issue-type">
    <img src="/issue-type.png" alt="issue-type-0" style=""> 
    <img alt="issue-type-copy" src="/issue-type copy 3.png" style="margin-top: -8px;">
    <div id="rectangle-gray"></div>
    <div id="rectangle-copy-2"></div>
-  </div>
+ </div>
  <div id="issue-type-copy"><img src="/issue-type copy.png" alt="issue-type-copy"></div>
  <div id="issue-type-copy-2"><img src="/issue-type copy 2.png" alt="issue-type-copy-2"></div>
  <div id="issue-type-copy-4"><img src="/issue-type copy 4.png" alt="issue-type-copy-4"></div>
