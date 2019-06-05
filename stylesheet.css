@@ -161,6 +161,7 @@ h1 {
   height: 160px;
   font-size: 20px;
   color: #515151;
+  font-weight: bold;
 }
 .dropdown {
   left: 141px;
