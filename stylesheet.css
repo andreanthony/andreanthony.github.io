@@ -155,7 +155,7 @@ h1 {
 .selection {
   top: 148px;
   text-align: left;
-  left: 0px;
+  left: 38.5px;
   width: 100px;
   height: 160px;
   font-size: 20px;
@@ -208,7 +208,7 @@ h1 {
 #date-picker {
   left: 0px;
   right: 38.5px;
-  top: 204px;
+  top: 240px;
   bottom: 45.31%;
 }
 #button-switch {
