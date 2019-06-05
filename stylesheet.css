@@ -150,11 +150,11 @@ h1 {
   text-align: right;
   width: 198px;
   height: 160px;
-  top: 148px;
+  top: 188px;
   right: 38.5;  
 }
 .selection {
-  top: 148px;
+  top: 193px;
   text-align: left;
   left: 38.5px;
   width: 100px;
@@ -208,9 +208,7 @@ h1 {
 }
 #date-picker {
   left: 38.5px;
-  right: 38.5px;
-  top: 336px;
-  bottom: 45.31%;
+  top: 389px;  
 }
 #button-switch {
   left: 4.27%;
@@ -220,7 +218,7 @@ h1 {
 }
 #rectangle-2 {
   right: 40px;
-  top: 92.38%;
+  top: 946px;
   bottom: 1.46%;
   background: #007AFF;
   border: 1px solid #979797;
@@ -237,33 +235,30 @@ h1 {
 #cancel {
   left: 73px;
   right: 63.73%;
-  top: 93.85%;
+  top: 961px;
   font-size: 26px;
 }
 #issue-type {
   left: 38.5px;
-  top: 500px;
+  top: 573px;
   font-weight: bold;
   font-size: 20px;
-  text-align: left;
   color: #515151;
 }
 #check-all {
-  left: 50px;
-  top: 380px;
-  width: 141px
-  line-height: 23px;
+  right: 38.5px;
+  top: 573px;
   text-align: right;  
   font-size: 16px;
   color: #515151;
-  font-style: italic;
+  font-weight: bold;
 }
 #rectangle-gray {
-  width: 295px;
+  width: 296px;
   height: 44px;
   top: 196px;
   background: #9CA8B5;
-  border: 2px solid #000000;
+  border: 2px solid #454545;
   box-sizing: border-box;
 }
 #rectangle-copy-2 {
@@ -276,11 +271,9 @@ h1 {
   box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
 }
 .issue-type {
-  left: 0px;
-  margin-top: 8px;
+  left: 38.5px;
   right: 62.67%;
-  top: 540px;
-  bottom: 31.35%;
+  top: 603px;
 }
 #issue-type-copy-3 {
   left: 10.67%;
@@ -289,28 +282,23 @@ h1 {
   bottom: 21.78%;
 }
 #issue-type-copy-4 {
-  left: 36.8%;
+  left: 134px;
   right: 36.53%;
-  top: 68.46%;
-  bottom: 21.78%;
+  top: 701px;
 }
 #issue-type-copy-5 {
-  left: 62.93%;
+  left: 232px;
   right: 40px;
-  top: 68.46%;
-  bottom: 21.78%;
+  top: 701px;
 }
 #issue-type-copy {
-  left: 36.8%;
-  right: 36.53%;
-  top: 58.89%;
-  bottom: 31.35%;
+  left: 136px;
+  top: 603px;  
 }
 #issue-type-copy-2 {
-  left: 62.93%;
+  left: 232px;
   right: 40px;
-  top: 58.89%;
-  bottom: 31.35%;
+  top: 603px;
 }
 #other {
   left: 19.47%;
