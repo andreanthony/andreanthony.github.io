@@ -254,9 +254,10 @@ h1 {
   font-weight: bold;
 }
 #rectangle-gray {
-  width: 296px;
+  width: 294px;
   height: 44px;
   top: 196px;
+  left: 1px;
   background: #9CA8B5;
   border: 2px solid #454545;
   box-sizing: border-box;
