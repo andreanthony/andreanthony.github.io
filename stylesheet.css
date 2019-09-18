@@ -59,12 +59,15 @@ h2 {
   height: 20px;
   width: 20px;
   top: 210px;
-  left: 250px;
+  left: 26px;
+  right: 375px;
 }
 #separatorgreen {
   position: absolute;
   border-top: 10px solid green;
-  top: 220px;
+  top: 218px;
+  width: 100vw;
+  max-width: 535px;
 }
 #circle-bottom {
   position: absolute;
@@ -75,12 +78,14 @@ h2 {
   height: 20px;
   width: 20px;
   top: 530px;
-  left: 250px;
+  left: -26px;
 }
 #separatorred {
   position: absolute;
   border-top: 10px solid red;
-  top: 537px;
+  top: 538px;
+  width: 100vw;
+  max-width: 535px;
 }
 #rectangle {
   left: 0%;
