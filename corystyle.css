@@ -1174,16 +1174,8 @@ textarea {
 }
 
 
-
-
-/*
-	Header
-=========================================*/
-/*
-	Header ---> Top Layout
------------------------------*/
 .site-header-top{
-	background-color:#000000;
+	background-color:#873170;
 	padding-top: 16px;
 	padding-bottom: 17px;
 	z-index: 2;
