@@ -2867,7 +2867,7 @@ h2 .fontstyle{
     position: absolute;
     height: 100%;
     width: 29.5%;
-    background-color: #873170;
+    background-color: linear-gradient(180deg,rgba(115,55,212,0.73) 0%,rgba(0,157,151,0.71) 100%) !important;
     top: -0px;
     left: 0px;
     z-index: -1;
