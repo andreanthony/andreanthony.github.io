@@ -3280,7 +3280,7 @@ h2 .fontstyle{
 }
 .section_03__right .full-right-bg:before {
     content: "";
-    background-color: #23BCDD;
+    background-color: #873170;
     position: absolute;
     top: -65px;
     left: 0px;
@@ -3634,7 +3634,7 @@ h2 .fontstyle{
 		position:absolute;
 		width:100vw;
 		height: 0.9vw;
-		background-color:#23BCDD;
+		background-color:#873170;
 		top: 6vw;
 		right: 114%;
 	}
@@ -3714,7 +3714,7 @@ h2 .fontstyle{
 	}
 	.section_04__content_items:after{
 		content:" ";
-		background-color: #23BCDD;
+		background-color: #873170;
 		width: 10vw;
 		height: 0.9vw;
 		position: absolute;
@@ -6966,7 +6966,7 @@ h2 .fontstyle{
 }
 .bpl_section_04_right:after{
 	content:" ";
-	background-color: #23BCDD;
+	background-color: #873170;
 	position: absolute;
 	top: 0;
 	left: 137px;
