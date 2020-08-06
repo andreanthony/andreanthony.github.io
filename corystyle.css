@@ -113,7 +113,7 @@ p + h1, p + h2, p + h3, p + h4, p + h5, p + h6{
 }
 
 a{
-	color: #FFBB9E;
+	color: #873170;
 	text-decoration:none;
 }
 a:hover{
@@ -1175,7 +1175,7 @@ textarea {
 
 
 .site-header-top{
-	background-color:#873170;
+	background-color:#000000;
 	padding-top: 16px;
 	padding-bottom: 17px;
 	z-index: 2;
@@ -2211,7 +2211,7 @@ a.responsive-menu-close:hover{
 	line-height: normal;
 	letter-spacing: 0.1px;
 	text-align: left;
-	color: #FFBB9E;
+	color: #873170;
 	text-transform:capitalize;
 }
 
@@ -2934,11 +2934,11 @@ h2 .fontstyle{
 	padding-top: 316px;
 }
 .section_02__right h2{
-	color: #FFBB9E;
+	color: #873170;
 	letter-spacing: 2.5px;
 }
 .section_02__right h2 span{
-	color: #FFBB9E;
+	color: #873170;
 	text-align: right;
 	display: block;
 }
@@ -3171,7 +3171,7 @@ h2 .fontstyle{
     width: 100%;
 }
 .section_03__top h2{
-	color: #FFBB9E;
+	color: #873170;
 	letter-spacing: 2.5px;
 }
 .section_03__top span{
@@ -3517,7 +3517,7 @@ h2 .fontstyle{
     background-color: #b0f9e2;
 }
 .section_04__top h2{
-	color: #FFBB9E;
+	color: #873170;
 	letter-spacing: 2.5px;
 }
 .section_04__top h2 span{
@@ -8921,7 +8921,7 @@ h2 .fontstyle{
 }
 .blog_section_5_right{width: 59%;padding-left: 12px;padding-top: 56px;position: relative;z-index: 1;}
 .blog_section_5_right h2{
-    color: #FFBB9E;
+    color: #873170;
     letter-spacing: 2.5px;
 }
 .blog_section_5_right h2 span{
@@ -9796,7 +9796,7 @@ h2 .fontstyle{
     color: #000;
 }
 .blog_category_s3_col_in h3 a:hover{
-	color: #FFBB9E;
+	color: #873170;
 }
 @media screen and (max-width: 1440px){
 	.blog_category_s3 {
@@ -10910,7 +10910,7 @@ h2 .fontstyle{
 	line-height: 1.1;
 	letter-spacing: 0.5px;
 	margin-bottom: -6px;
-	color: #FFBB9E;
+	color: #873170;
 	z-index: 1;
 	position: relative;
 }
@@ -11744,7 +11744,7 @@ h2 .fontstyle{
 	z-index: 1;
 }
 .section_05_left_in{width: 52%;}
-.section_05_left_in h2{color: #FFBB9E;letter-spacing: 1.6px;line-height: 1;}
+.section_05_left_in h2{color: #873170;letter-spacing: 1.6px;line-height: 1;}
 .section_05_left_in h2 span{transform: none;margin-top: -8px;font-size: 64px;letter-spacing: -1px;font-family: 'Artifact';font-weight: normal;color: #000;padding-right: 15px;}
 .section_05_left_in article{padding-left: 12px;padding-top: 17px;}
 .section_05_left_in article p{margin-bottom: 0px;padding-bottom: 33px;color: #000;font-weight: 400;}
