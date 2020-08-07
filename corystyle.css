@@ -2866,8 +2866,8 @@ h2 .fontstyle{
     content: "";
     position: absolute;
     height: 100%;
-    width: 29.5%;
-    background-color: #009D97;
+    width: 24%;
+    background-color: #22bede;
     top: -0px;
     left: 0px;
     z-index: -1;
@@ -2966,7 +2966,7 @@ h2 .fontstyle{
     height: 93%;
     top: 9px;
     right: -32px;
-    background-color: #b0f9e2;
+    background-color: #22bede;
 }
 .section_02__only_content{
 	padding-left: 295px;
@@ -3512,7 +3512,7 @@ h2 .fontstyle{
     height: 4px;
     top: 31px;
     right: 88px;
-    background-color: #b0f9e2;
+    background-color: #22bede;
 }
 .section_04__top h2{
 	color: #873170;
@@ -3584,7 +3584,7 @@ h2 .fontstyle{
 	height: 4px;
 	top: 29px;
 	left: 380px;
-	background-color: #b0f9e2;
+	background-color: #22bede;
 }
 
 @media (max-width: 1250px) {
