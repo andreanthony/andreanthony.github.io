@@ -3158,8 +3158,7 @@ h2 .fontstyle{
 	Section 03
 =========================================*/
 .section_03{
-	padding-top: 162px;
-	padding-bottom: 97px;
+	padding: 24px 48px;
 }
 .section_03 .section-inner{
 	display: flex;
