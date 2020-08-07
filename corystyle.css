@@ -2930,7 +2930,7 @@ h2 .fontstyle{
 }
 .section_02__right{
 	width:50%;
-	padding-top: 316px;
+	padding-top: 25px;
 }
 .section_02__right h2{
 	color: #9966e5;
@@ -2972,8 +2972,8 @@ h2 .fontstyle{
 	padding-left: 295px;
 }
 .section_02__only_content article{
-	padding-top: 29px;
-	padding-bottom: 35px;
+	margin-top: -200px;
+	
 }.section_02__only_content article p{
 	color: #000000;
 	padding-bottom: 21px;
@@ -3000,8 +3000,10 @@ h2 .fontstyle{
     width: 145px;
     height: 2px;
     background-color: #000000;
+    padding-top: -20px;
     bottom: 0px;
     left: 0px;
+
 }
 .section_02__only_content .button-alt2:hover{
 	transform: scale(1.1) perspective(1px);
