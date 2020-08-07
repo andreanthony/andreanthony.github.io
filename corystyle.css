@@ -1175,7 +1175,7 @@ textarea {
 
 
 .site-header-top{
-	background-color:#000000;
+	background-color:#22bede;
 	padding-top: 16px;
 	padding-bottom: 17px;
 	z-index: 2;
@@ -1188,7 +1188,7 @@ textarea {
 	font-size: 16.5px;
 }
 .site-header-top .section-inner strong{
-	color:#ffdf29;
+	color:#9966e5;
 	font-weight: 600;
 	font-size: 16px;
 	padding-right: 5px;
@@ -1897,7 +1897,7 @@ a.responsive-menu-close:hover{
 	padding-bottom: 6px;
 	font-size: 15px;
 	letter-spacing: 3px;
-	color: #d8d8d8;
+	color: #FFFFFF;
 }
 .site-footer span.design-by{
 	text-transform: uppercase;
@@ -1931,7 +1931,7 @@ a.responsive-menu-close:hover{
 	display:inline-block;
 }
 .footer-menu #footer_menu li a{
-	color: #d8d8d8;
+	color: #FFFFFF;
 	display:block;
 	padding-left:10px;
 	padding-right:10px;
