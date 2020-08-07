@@ -3104,8 +3104,8 @@ h2 .fontstyle{
 		height: 1px;
 	}
 	.section_02{
-		padding-top: 14vw;
-		padding-bottom: 16.7vw;
+		padding-top: 5px;
+		padding-bottom: 5px;
 	}
 	.section_02__right.mobile_only{
 		margin-bottom: 2.8vw;
@@ -3128,7 +3128,7 @@ h2 .fontstyle{
 		left: -18vw;
 	}
 	.section_02__right{
-		padding-top: 4.9vw;
+		
 	}
 	.section_02__right h3{
 		font-size: 4.5vw;
@@ -11679,7 +11679,7 @@ h2 .fontstyle{
 	}
 	 .section_04.section_04_new{
 		position: relative;
-		padding-bottom: 40vw;
+		padding-bottom: 60px;
 	}
 }
 @media screen and (max-width: 550px){
