@@ -3691,7 +3691,7 @@ h2 .fontstyle{
 	}
 	.section_04__top{margin-bottom: 10vw;}
 	.section_04__only_content{
-		padding-top: 1vw;
+		padding-top: 0;
 		padding-bottom: 0;
 		text-align: center;
 	}
