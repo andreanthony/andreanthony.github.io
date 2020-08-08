@@ -1392,7 +1392,7 @@ a.responsive-menu-hand{
 	width: 40px;
 	z-index: 999;
 	cursor: pointer;
-	background-image: url(images/ui/mobile-menu-icon.svg);
+	background-image: url(https://andreanthony.github.io/mobile-menu-icon.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	font-size:0;
