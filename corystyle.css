@@ -3514,8 +3514,8 @@ h2 .fontstyle{
 	}
 	.section_04__top{margin-bottom: 10vw;}
 	.section_04__only_content{
-		padding-top: 1vw;
-		padding-bottom: 10vw;
+		padding-top: 0px;
+		padding-bottom: 0px;
 		text-align: center;
 	}
 	.section_04__bottom{
