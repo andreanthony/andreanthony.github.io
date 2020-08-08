@@ -3147,7 +3147,7 @@ h2 .fontstyle{
 		height: 154vw;
 	}
 	.section_02__only_content article{
-		padding-top: 185px;
+		padding-top: 250px;
 		padding-left: 40px;
 	}
 }
@@ -11681,6 +11681,7 @@ h2 .fontstyle{
 	}
 	 .section_04.section_04_new{
 		position: relative;
+		padding-top: 8vw;
 		padding-bottom: 0px;
 	}
 }
