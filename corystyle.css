@@ -11532,7 +11532,7 @@ h2 .fontstyle{
  * ***/
   .section_04.section_04_new{
 	position: relative;
-	padding-bottom: 105px;
+	padding-bottom: 0px;
 }
 .section_04.section_04_new:before{
 	display:none !important;
