@@ -61,7 +61,7 @@ body{
 	font-family: 'Red Hat Display', sans-serif;
 	color: #676767;
 	font-size: 19.01px;
-    line-height: 1.75;
+    	line-height: 1.75;
 }
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Red Hat Display', sans-serif;
@@ -2855,10 +2855,10 @@ body.single-post #page .site-header{
 h2 .fontstyle{
 	font-size: 58px;
 	display: block;
-	color: #000000;
+	color: #9966e5;
 	text-align: left;
-	font-family: 'Artifact';
-	font-weight: normal;
+	font-family: 'Red Hat Display';
+	font-weight: bold;
 	padding-left: 277px;
 	font-style: normal;
 	margin-top: -10px;
