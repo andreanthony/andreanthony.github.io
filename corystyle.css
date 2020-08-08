@@ -359,6 +359,21 @@ html {
     margin-left: 18px;
     padding-right: 17px;
 }
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright {
+	display: inline;
+
+	float: right;
+	margin-left: 1.5em;
+	
+.aligncenter {
+	clear: both;
+
 .main-navigation li:before{
 	content:"";
 	width: 2px;
@@ -367,6 +382,8 @@ html {
 	top: 12px;
 	right: 0px;
 	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	position: absolute;
 }
 .main-navigation li:last-child{
@@ -816,7 +833,6 @@ a.responsive-menu-close:hover{
 	.section_hero,
 	.section_02,
 	.section_04,
-	.get_to_know_me,
 	.site_footer_top,
 	.site-footer{
 		padding-left: 8vw;
@@ -825,6 +841,18 @@ a.responsive-menu-close:hover{
 
 }
 
+.site-header .section-inner{
+    padding-top: 10px;
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 40px;
+    padding-right: 40px;
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-wrap: wrap;
+}
+	
 .site_footer_top{
 	background-color: #f9f9f9;
 	padding-top: 50px;
