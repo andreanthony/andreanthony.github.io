@@ -2855,7 +2855,7 @@ body.single-post #page .site-header{
 h2 .fontstyle{
 	font-size: 58px;
 	display: block;
-	color: #9966e5;
+	color: #000;
 	text-align: left;
 	font-family: 'Red Hat Display';
 	font-weight: bold;
@@ -3521,7 +3521,7 @@ h2 .fontstyle{
     background-color: #b0f9e2;
 }
 .section_04__top h2{
-	color: #9966e5;
+	color: #000;
 	letter-spacing: 2.5px;
 }
 .section_04__top h2 span{
