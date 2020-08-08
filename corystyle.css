@@ -2989,6 +2989,7 @@ h2 .fontstyle{
 	margin-top: 2px;
 	transition: all 1s ease;
   	transform: scale(1);
+	padding-left: 20px;
 }
 .section_02__only_content .button-alt2:before {
     position: absolute;
@@ -2998,7 +2999,7 @@ h2 .fontstyle{
     background-color: #000000;
     padding-top: -20px;
     bottom: 0px;
-    left: 0px;
+    left: 20px;    
 
 }
 .section_02__only_content .button-alt2:hover{
