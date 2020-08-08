@@ -1436,7 +1436,7 @@ a.responsive-menu-close:hover{
 	height: 100%;
 	top: 0;
 	right: -110%;
-	background: #ffbb9ef5;
+	background: #fff;
 	z-index:999999;
 	overflow:scroll;
 	overflow-y: auto;
