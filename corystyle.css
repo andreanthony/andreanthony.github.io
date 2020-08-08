@@ -2906,8 +2906,6 @@ h2 .fontstyle{
 	height: 672px;
 	position: relative;
 	z-index: 32;
-	border-style: solid;
-	border-width: 18px;
 	border-color: #ffffff;
 }
 .section_02__left_container img{
@@ -3057,7 +3055,7 @@ h2 .fontstyle{
 		font-size: 3.6vw;
 	}
 	.section_02__only_content {
-		padding-left: 75px;
+		padding-left: 60px;
 	}
 
 	.section_02:after {
@@ -3094,7 +3092,7 @@ h2 .fontstyle{
 		font-size: 4vw;
 		padding-bottom: 0;
 		line-height: 1.7;
-		margin-bottom: 5.8vw;
+		margin-bottom: 5px;
 	}
 	.section_02__only_content article p:last-child{
 		margin-bottom:0
@@ -3150,7 +3148,7 @@ h2 .fontstyle{
 		top: 1.5vw;
 	}
 	.section_02:after{
-		width: 23.5vw;
+		width: 80px;
 		height: 154vw;
 	}
 	.section_02__only_content article{
