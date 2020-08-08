@@ -759,6 +759,78 @@ a.responsive-menu-close:hover{
 	}
 }
 
+@media screen and (max-width: 1006px){
+	.main-navigation li {
+		margin-left: 10px;
+	}
+	.main-navigation li.nav_login_li {
+		padding-left: 10px;
+	}
+}
+@media screen and (max-width: 980px){
+	a.responsive-menu-hand{
+		display: block;
+	}
+	.main-navigation,
+	.fixed-header .header-phone-social{
+		display: none;
+	}
+	.logo{
+		padding-top:20px;
+	}
+	.header-left{
+		padding-top:10px;
+	}
+
+}
+@media screen and (max-width: 768px){
+	.site-header-top .section-inner{
+	    font-size: 2.5vw;
+	    line-height: 1.4;
+	    letter-spacing: 0.5vw;
+	}
+	.logo{
+		padding-top: 3.1vw;
+		padding-bottom: 3.1vw;
+	}
+	.logo img{
+		max-width: 9.85vw;
+	}
+	.header-left{
+		padding-bottom: 1vw;
+		padding-top: 1vw;
+	}
+	a.responsive-menu-hand{
+		bottom: 2.36vw;
+		height: 8.5vw;
+		width: 8.5vw;
+	}
+	.site-header-top{
+		padding-left: 8vw;
+		padding-right: 8vw;
+		padding-top: 2vw;
+		padding-bottom: 2vw;
+	}
+	.site-header-top .section-inner strong{
+		font-size: 2.2vw;
+		padding-right: 0.5vw;
+		font-weight: normal;
+	}
+	.fixed-header a.responsive-menu-hand{
+		height: 40px;
+		width: 40px;
+		bottom: auto;
+		top: 19px;
+	}
+	.fixed-header .logo img{
+		width: 42px;
+		padding-top: 10px;
+	}
+}
+.mobile_only{
+	display: none;
+}
+		
 .page-hero{
     background-color: #ffffff;
     padding-top: 60px;
