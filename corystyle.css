@@ -3121,7 +3121,7 @@ h2 .fontstyle{
 	}
 	.section_02__left_container{
 		border-width: 1.5vw;
-		margin-left: 67px;
+		margin-left: 35px;
 		width: calc(100% - 15vw);
 	}
 	.section_02__left_container:before{
@@ -3145,7 +3145,7 @@ h2 .fontstyle{
 	}
 	.section_02:after{
 		width: 27px;
-		height: 600px;
+		height: 0px;
 	}
 	.section_02__only_content article{
 		padding-top: 0;
