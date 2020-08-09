@@ -2163,14 +2163,14 @@ h2 .fontstyle{
 .section_02:before{
     content: "";
     position: absolute;
-    width: 214px;
-    height: 261px;
+    width: 384px;
+    height: 288px;
     top: 0px;
     right: 0px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(art.png);
+    background-image: url(https://www.vanessalau.co/wp-content/uploads/2019/09/section-02-about-left-art-image.png);
     z-index: 0;
 }
 .section_02 .section-inner{
@@ -2202,8 +2202,7 @@ h2 .fontstyle{
     left: -77px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
-    background-image: url(https://www.vanessalau.co/wp-content/uploads/2019/09/section-02-about-left-art-image.png);
+    background-position: center;    
 }
 .section_02__left_container img{
 	width: 100%;
