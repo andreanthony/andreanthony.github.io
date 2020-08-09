@@ -1504,7 +1504,7 @@ a.responsive-menu-close:hover{
     left: 0px;
     width: 164px;
     height: 225px;
-    background-image: url(images/footer_left_bg.png);
+    background-image: url(https://www.vanessalau.co/wp-content/themes/vanessalau/images/footer_left_bg.png);
     background-repeat: repeat-x;
     background-position: top right;
     background-size: 300px;
@@ -1543,53 +1543,6 @@ a.responsive-menu-close:hover{
 	margin-top: -15px;
 }
 
-.site_footer_top_right_social {
-    display: block;
-    padding-top: 0px;
-    text-align: right;
-    margin-bottom: 11px;
-}
-.site_footer_top_right_social ul {
-    margin: 0px;
-    padding: 0px;
-    list-style: none;
-    margin-top: -22px;
-}
-.site_footer_top_right_social ul li {
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-}
-.site_footer_top_right_social ul li a {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 18px;
-    display: block;
-    width: 25px;
-    height: 25px;
-    text-indent: -9999999999999999px;
-    font-size: 0px;
-}
-.site_footer_top_right_social ul li.instagram a{
-	background-image: url(images/insta.png);
-}
-.site_footer_top_right_social ul li.faceb a{
-	background-image: url(images/facebookIcon.png);
-	background-size: 9px;
-}
-.site_footer_top_right_social ul li.youtube {
-    margin-left: 4px;
-}
-.site_footer_top_right_social ul li.youtube a{
-    background-image: url(images/youtube.png);
-    background-size: 24px;
-}
-.site_footer_top_right_social ul li.linkedin a{
-	background-image: url(images/linkedin-icon.png);
-	background-size: 19px;
-}
-
-
 .site_footer_top_right{
 	width: 72.9%;
     position: relative;
@@ -1601,19 +1554,7 @@ a.responsive-menu-close:hover{
     color: #000000;
     padding-top: 2px;
 }
-.site_footer_top_right h2 mark{
-    font-family: 'Artifact';
-    color: #000;
-    font-weight: 400;
-    font-size: 49px;
-    background-color: transparent !important;
-    background-image: url(images/bodder.png);
-    background-repeat: repeat-x;
-    background-position: 0px 26px;
-    background-size: 152px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
+
 .site_footer_top_right h2 a{
 	color: #000000;
 }
@@ -2352,8 +2293,7 @@ h2 .fontstyle{
 		background-size: contain;
 		background-position: top right;
 		top: -16vw;
-		right: -5vw;
-		background-image: url(/wp-content/uploads/2019/09/Group-1.png);
+		right: -5vw;		
 	}
 	.section_02__right h2{
 	    font-size: 8vw;
@@ -2452,7 +2392,7 @@ h2 .fontstyle{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/wp-content/uploads/2019/09/section-04-top-right-art-image.png);
+    background-image: url(https://www.vanessalau.co/wp-content/themes/vanessalau/images/footer_left_bg.png;
 }
 .section_04:before{
     content: "";
@@ -2464,7 +2404,7 @@ h2 .fontstyle{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(/wp-content/uploads/2019/09/section-04-bottom-left-art-image.png);
+    background-image: url(https://www.vanessalau.co/wp-content/themes/vanessalau/images/footer_left_bg.png);
 }
 .section_04 .section-inner{
 	max-width: 1178px;
@@ -2761,7 +2701,7 @@ h2 .fontstyle{
 .Cookie_notification span{
 	position:absolute;
 	top: 15px;
-	background-image: url(/wp-content/uploads/2019/10/cokie-close.png);
+	background-image: url(https://www.vanessalau.co/wp-content/uploads/2019/10/cokie-close.png);
 	right: 15px;
 	font-size: 0;
 	width: 11px;
