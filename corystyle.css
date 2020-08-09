@@ -2078,42 +2078,6 @@ a.responsive-menu-close:hover{
 	}
 } 
 
-/*
-	404 Page
-=========================================*/
-.page-content-404{
-	text-align: center;
-	min-height: 60vh;
-	padding-top: 5%;
-	padding-bottom: 5%;
-}
-.title-404{
-	font-weight: bold;
-}
-.lead-404{
-	font-size: 30px;
-	max-width: 600px;
-	margin: 0 auto;
-	margin-bottom: 30px;
-}
-.links-404{
-	font-weight: 600;
-}
-@media screen and (max-width: 980px){
-	.lead-404{
-		font-size: 20px;
-		margin-bottom: 30px;
-	}
-}
-
-
-
-/*
-	Post Style
-=========================================*/
-/*
-	Post ---> Archive
------------------------------*/
 .post-entry-items{
 
 }
