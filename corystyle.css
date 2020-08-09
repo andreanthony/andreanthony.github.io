@@ -22,38 +22,6 @@ p {
     margin-bottom: 11px;
 }
 
-.wp-video, video.wp-video-shortcode, .mejs-container, .mejs-overlay.load {
-	width: 100% !important;
-	height: 100% !important;
-}
-.mejs-container {
-	padding-top: 56.25%;
-}
-.wp-video, video.wp-video-shortcode {
-	max-width: 100% !important;
-}
-video.wp-video-shortcode {
-	position: relative;
-}
-.mejs-mediaelement {
-	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-}
-.mejs-controls {
-	display: none;
-}
-.mejs-overlay-play {
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	width: auto !important;
-	height: auto !important;
-}
-
 body{
 	background-color:#fff;
 	font-family: 'Red Hat Display', sans-serif;
@@ -221,14 +189,7 @@ html {
 .remove-menu-link, .remove-menu-link > a {
     cursor: default;
 }
-.no-padding{
-	padding:0 !important;
-}
 
-
-/*
-	Globals --> Full Left BG
------------------------------*/
 .full-bg-holder{
 	position:relative;
 }
@@ -1025,87 +986,6 @@ a.responsive-menu-close:hover{
 
 }
 
-.site_footer_top{
-	background-color: #f9f9f9;
-	padding-top: 50px;
-	position:relative;
-}
-.site_footer_top:before{
-    position: absolute;
-    content: "";
-    top: -52px;
-    left: 0px;
-    width: 164px;
-    height: 225px;
-    background-image: url(https://www.vanessalau.co/wp-content/themes/vanessalau/images/footer_left_bg.png);
-    background-repeat: repeat-x;
-    background-position: top right;
-    background-size: 300px;
-}
-.site_footer_top .section-inner{
-	max-width: 1180px;
-	display: flex;
-	flex-wrap: wrap;
-	box-sizing: border-box;
-}
-.site_footer_top_left{
-	width: 27.1%;
-	padding-right: 84px;
-	position: relative;
-}
-.site_footer_top_left:before{
-	position:absolute;
-	content:"";
-	width:4px;
-	height:202px;
-	background-color: #abfae2;
-	top: -7px;
-	right: 40px;
-}
-.site_footer_top_left h2{
-	color: #ffbb9e;
-	text-align: right;
-	margin-bottom: 0px;
-}
-.site_footer_top_left h2 span{
-	/* display: none; */
-	font-family: 'Artifact';
-	color: #000;
-	font-weight: 400;
-	display: block;
-	margin-top: -15px;
-}
-
-.site_footer_top_right{
-	width: 72.9%;
-    position: relative;
-}
-.site_footer_top_right h2{
-    font-size: 28px;
-    text-align: right;
-    padding-bottom: 20px;
-    color: #000000;
-    padding-top: 2px;
-}
-
-.site_footer_top_right h2 a{
-	color: #000000;
-}
-.site_footer_top_right h2 a:hover{
-	color: #ffbb9e;
-}
-.site_footer_top_right_in{
-	position: relative;
-    height: 253px;
-    width: 100%;
-}
-.site_footer_top_right_in .full-right-bg{
-	
-}
-.site_footer_top_right_in #sb_instagram .sbi_photo{
-	height: 253px !important;
-}
-
 .site-footer{
     background-color: #000000;
     padding-top: 14px;
@@ -1138,9 +1018,6 @@ a.responsive-menu-close:hover{
 }
 .site-footer span.design-by a:hover{
 	color:#FFF;
-}
-.mobile_ig_feed{
-	display:none;
 }
 
 .footer-menu{
