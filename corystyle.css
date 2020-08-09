@@ -3703,7 +3703,7 @@ h2 .fontstyle{
 	}
 	.section_04__content_items {
 		position:relative;
-		padding-bottom: 9vw;
+		padding-bottom: 20px;
 	}
 	.section_04__content_items:after{
 		content:" ";
