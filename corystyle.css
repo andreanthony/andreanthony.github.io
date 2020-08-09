@@ -330,54 +330,6 @@ html {
 	color: #30b6e6;	
 }
 
-.pagenav{
-    display: block;
-    margin-top: 0px;
-    padding-top: 21px;
-    padding-bottom: 77px;
-    width: 100%;
-    left: 0px;
-}
-.pagenav .page-numbers{
-	padding: 6px 6px;
-	display: inline-block;
-	text-decoration: none;
-	font-size: 18px;
-	font-weight: 700;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: 1.5;
-	letter-spacing: 0.4px;
-	text-align: left;
-	color: #9966e5;
-}
-.pagenav .prev.page-numbers{
-	padding-left:0px;
-	color: #9966e5;
-}
-.pagenav .next.page-numbers{
-	padding-right:0px;
-	color: #9966e5;
-}
-.pagenav .page-numbers:hover,
-.pagenav .page-numbers.current{
-	color: #000000;
-}
-
-@media screen and (max-width: 768px){
-.pagenav {
-    display: block;
-    margin-top: 0px;
-    padding-top: 10px;
-    padding-bottom: 0px;
-    width: 100%;
-    left: 0px;
-    text-align: center;
-}
-}
-/*
-	Globals --> Content Layout
------------------------------*/
 .site-content-in{
 	display:flex;
 	flex-wrap:wrap;
