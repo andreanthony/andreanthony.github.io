@@ -3051,7 +3051,7 @@ h2 .fontstyle{
 		font-size: 3.6vw;
 	}
 	.section_02__only_content {
-		padding-left: 0px;
+		padding-left: 21.6px;
 	}
 
 	.section_02:after {
@@ -3132,6 +3132,7 @@ h2 .fontstyle{
 	}
 	.section_02__right{
 		padding-top: 0px;
+		padding-left: 21.6px;
 	}
 	.section_02__right h3{
 		font-size: 4.5vw;
