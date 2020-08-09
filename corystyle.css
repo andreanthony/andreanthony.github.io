@@ -845,104 +845,6 @@ html {
 	}
 }
 
-/*
-	 Form
-=========================================*/
-button,
-input[type="button"],
-input[type="reset"],
-input[type="submit"] {
-    border: 0;
-    padding: 11.5px 35px;
-    text-transform: uppercase;
-    border-radius: 0.5px;
-    background-color: #30b6e6;
-    font-size: 13.9px;
-    font-weight: bold;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 1.4px;
-    color: #ffffff;
-}
-
-button:hover,
-input[type="button"]:hover,
-input[type="reset"]:hover,
-input[type="submit"]:hover {
-    opacity: 0.7;
-}
-
-button:focus,
-input[type="button"]:focus,
-input[type="reset"]:focus,
-input[type="submit"]:focus,
-button:active,
-input[type="button"]:active,
-input[type="reset"]:active,
-input[type="submit"]:active {
-	border-color: #aaa #bbb #bbb;
-}
-
-input[type="text"],
-input[type="email"],
-input[type="url"],
-input[type="password"],
-input[type="search"],
-input[type="number"],
-input[type="tel"],
-input[type="range"],
-input[type="date"],
-input[type="month"],
-input[type="week"],
-input[type="time"],
-input[type="datetime"],
-input[type="datetime-local"],
-input[type="color"],
-textarea {
-    color: #666;
-    border: 1px solid #c5c5c5;
-    padding: 9px 10px;
-    max-width: 100%;
-    width: 100%;
-    font-size: 17px;
-    box-sizing: border-box;
-    margin-bottom: 10px;
-}
-
-select {
-	border: 1px solid #ccc;
-}
-
-input[type="text"]:focus,
-input[type="email"]:focus,
-input[type="url"]:focus,
-input[type="password"]:focus,
-input[type="search"]:focus,
-input[type="number"]:focus,
-input[type="tel"]:focus,
-input[type="range"]:focus,
-input[type="date"]:focus,
-input[type="month"]:focus,
-input[type="week"]:focus,
-input[type="time"]:focus,
-input[type="datetime"]:focus,
-input[type="datetime-local"]:focus,
-input[type="color"]:focus,
-textarea:focus {
-	color: #111;
-}
-textarea {
-	width: 100%;
-}
-
-/*
-	Form ---> Contact form 7
------------------------------*/
-.wpcf7 p{
-	margin-bottom:0;
-}
-
 .site-header-top{
 	background-color:#000000;
 	padding-top: 16px;
@@ -995,10 +897,6 @@ textarea {
 	position: relative;
 }
 
-
-/*
-	Header ---> Main Menu
------------------------------*/
 .main-navigation ul {
     margin: 0;
     width: auto;
@@ -1317,9 +1215,6 @@ a.responsive-menu-close:hover{
 	}
 }
 
-/*
-	Header ---> Responsive
------------------------------*/
 @media screen and (max-width: 1115px){
 	.main-navigation li {
 		margin-left: 12px;
@@ -1412,9 +1307,6 @@ a.responsive-menu-close:hover{
 	display: none;
 }
 
-/*
-	Page Hero
-=========================================*/
 .page-hero{
     background-color: #ffffff;
     padding-top: 60px;
@@ -1487,11 +1379,6 @@ a.responsive-menu-close:hover{
 
 }
 
-
-
-/*
-	Footer
-=========================================*/
 .site_footer_top{
 	background-color: #f9f9f9;
 	padding-top: 50px;
@@ -1648,9 +1535,7 @@ a.responsive-menu-close:hover{
 .footer-menu #footer_menu li a:hover{
 	color: #22bede;
 }
-/*
-	Footer ---> Responsive
------------------------------*/
+
 @media screen and (max-width: 1250px){
 	.site_footer_top_right h2 {
 		font-size: 23px;
