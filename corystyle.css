@@ -2599,7 +2599,15 @@ h2 .fontstyle{
 	padding-bottom: 0px;
 }
 .section_04.section_04_new:before{
-	display:none !important;
+	content: "";
+	position: absolute;
+	width: 306px;
+	height: 225px;
+	top: -72px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(art.png);
 }
 
 @media screen and (max-width: 768px){	
