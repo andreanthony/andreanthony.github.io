@@ -1638,7 +1638,6 @@ a.responsive-menu-close:hover{
 		padding-top: 1vw;
 	}
 	a.responsive-menu-hand{
-		bottom: 2.36vw;
 		height: 8.5vw;
 		width: 8.5vw;
 	}
@@ -3115,7 +3114,7 @@ h2 .fontstyle{
 		padding-bottom: 5px;
 	}
 	.section_02__right.mobile_only{
-		margin-bottom: 2.8vw;
+		
 	}
 	.section_02__right h2 span{
 
@@ -3689,7 +3688,7 @@ h2 .fontstyle{
 	.section_04{
 		padding-bottom: 40vw;
 	}
-	.section_04__top{margin-bottom: 10vw;}
+	.section_04__top{margin-bottom: 5px;}
 	.section_04__only_content{
 		padding-top: 0;
 		padding-bottom: 0;
