@@ -2865,8 +2865,7 @@ h2 .fontstyle{
 }
 .section_02{
 	position:relative;
-	padding-top:20px;
-	padding-bottom: 94px;
+	padding-top:20px;	
 }
 .section_02:after{
     content: "";
