@@ -1398,7 +1398,7 @@ textarea {
 
 a.responsive-menu-hand{
 	position: absolute;
-	bottom: 25px;
+	bottom: 20px;
 	right: 0;
 	display: none;
 	height: 40px;
@@ -1408,7 +1408,7 @@ a.responsive-menu-hand{
 	background-image: url(https://andreanthony.github.io/mobile-menu-icon.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
-	font-size:0;
+	font-size:0;	
 }
 a.responsive-menu-close{
 	clear: both;
