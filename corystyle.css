@@ -1865,29 +1865,6 @@ a.responsive-menu-close:hover{
     margin-left: -107px;
     color: #000;
 }
-.section_hero_left h1 mark{
-	background:none;
-	margin-left: 22px;
-	
-}
-.section_hero_left h1 mark em{
-	font-style: normal;
-	position: relative;
-	z-index: 1;
-	padding-left: 0px;
-	padding-right: 3px;
-}
-.section_hero_left mark em:after {
-    content: " ";
-    position: absolute;
-    width: 100%;
-    width: calc(100% - 10px);
-    height: 15px;
-    right: 7px;
-    bottom: 19px;
-    z-index: -1;
-    background-color:#ffbb9e;
-}
 
 .section_hero_left span{
 	display: block;
