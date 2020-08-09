@@ -2073,18 +2073,7 @@ h2 .fontstyle{
     background-position: center;
     background-image: url(https://andreanthony.github.io/art.png);
 }
-.section_04:before{
-    content: "";
-    position: absolute;
-    width: 445px;
-    height: 390px;
-    bottom: -20px;
-    left: 0px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-image: url(https://andreanthony.github.io/art.png);
-}
+
 .section_04 .section-inner{
 	max-width: 1178px;
 }
