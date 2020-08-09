@@ -2475,10 +2475,8 @@ body.single-post #page .site-header{
 }
 @media (max-width: 768px) {
 	.section_hero_bg {
-		width: 100vw;
-		right: -47vw;
-		background-size: cover;
-		height: 123.2vw;
+		width: 500px;
+		right: -47vw;		
 	}
 	.section_hero_left span {
 		width: 70vw;
