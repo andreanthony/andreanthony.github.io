@@ -1250,7 +1250,6 @@ h2 .fontstyle{
 	transition: all 1s ease;
   	transform: scale(1);
 	margin-left: 10px;
-	top: -50px;
 }
 .section_02__only_content .button-alt2:before {
     position: absolute;
