@@ -94,26 +94,21 @@ a:hover{
 	h4, h4 {
 		font-size: 16px;
 	}
+	article {
+		font-size: 17.4px;
+	}
 }
 
 br.mo{
 	display:none;
 }
-/*
-	Globals --> Element
------------------------------*/
+
 hr {
 	background-color: #eae6e6;
 	border: 0;
 	height: 1px;
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
-}
-dt {
-	font-weight: bold;
-}
-dd {
-	margin: 0 1.5em 1.5em;
 }
 img {
 	height: auto; /* Make sure images are scaled correctly. */
@@ -234,23 +229,6 @@ html {
 /* Do not show the outline on the skip link target. */
 #content[tabindex="-1"]:focus {
 	outline: 0;
-}
-
-.alignleft {
-	display: inline;
-	float: left;
-	margin-right: 1.5em;
-}
-.alignright {
-	display: inline;
-	float: right;
-	margin-left: 1.5em;
-}
-.aligncenter {
-	clear: both;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 .main-logo {
@@ -467,7 +445,7 @@ a.responsive-menu-hand{
 	width: 40px;
 	z-index: 999;
 	cursor: pointer;
-	background-image: url(https://andreanthony.github.io/mobile-menu-icon.svg);
+	background-image: url(mobile-menu-icon.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
 	font-size:0;	
@@ -1622,7 +1600,6 @@ h2 .fontstyle{
 		position: absolute;
 		left: 50%;
 		margin-left: -5vw;
-		bottom: 5vw;
 	}
 	.section_04__items_1{
 		width: 100%;
