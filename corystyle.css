@@ -1289,11 +1289,6 @@ h2 .fontstyle{
 		line-height: 1.45;
 		text-align: center;
 	}
-	.section_02__right h3:after{
-		right: 0;
-		width: 0.5vw;
-		top: 1.5vw;
-	}
 	.section_02:after{
 		width: 27px;
 		height: 0px;
