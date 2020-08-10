@@ -1413,13 +1413,13 @@ h2 .fontstyle{
 .section_04:after{
     content: "";
     position: absolute;
-    width: 306px;
+    width: 233px;
     height: 225px;
     top: 20px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(https://andreanthony.github.io/art.png);
+    background-image: url(https://andreanthony.github.io/art3.png);
 }
 
 .section_04 .section-inner{
@@ -1582,8 +1582,8 @@ h2 .fontstyle{
 		width: 61px;
 		height: 90px;
 		top: 0px;
-		right: 0px;
 		background-position: left top;
+		background-image: url(art2.png);
 	}
 	.section_04:before{
 		width: 61px;
