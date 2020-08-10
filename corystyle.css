@@ -247,7 +247,6 @@ html {
 }
 .alignright {
 	display: inline;
-
 	float: right;
 	margin-left: 1.5em;
 }
@@ -256,6 +255,10 @@ html {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.main-logo {
+	width: 56px;
 }
 
 .site-header-top{
