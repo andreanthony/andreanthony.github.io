@@ -1033,7 +1033,7 @@ h2 .fontstyle{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(art2.png);
+    background-image: url(art3.png);
     z-index: 0;
 }
 .section_02 .section-inner{
@@ -1470,7 +1470,7 @@ h2 .fontstyle{
 	.section_04:after{
 		height: 90px;
 		background-position: left;
-		background-image: url(art2.png);
+		background-image: url(art3.png);
 		left: 0;
 		margin-top: -15px;
 	}
