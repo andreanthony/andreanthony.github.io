@@ -185,6 +185,9 @@ html {
 
 .main-logo {
 	width: 56px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 .site-header-top{
@@ -735,7 +738,6 @@ a.responsive-menu-close:hover{
 }
 .footer-menu #footer_menu{
 	margin:0;
-	padding-top: 20px;
 	display:inline-block;
 	list-style-type: none;
 }
