@@ -140,10 +140,6 @@ li > ol {
 	margin-left: 1.5em;
 }
 
-
-/*
-	Globals --> Common
------------------------------*/
 html {
 	box-sizing: border-box;
 }
@@ -502,7 +498,7 @@ a.responsive-menu-close:hover{
 	height: 100%;
 	top: 0;
 	right: -110%;
-	background: ##aff9e2f5;
+	background: #aff9e2f5;  
 	z-index:999999;
 	overflow:scroll;
 	overflow-y: auto;
