@@ -1363,7 +1363,7 @@ h2 .fontstyle{
 		height: 1px;
 	}
 	.section_02{
-		padding-top: 5px;
+		padding-top: 0px;
 		padding-bottom: 5px;
 	}
 	.section_02__right.mobile_only{
@@ -1373,7 +1373,7 @@ h2 .fontstyle{
 		text-align: center;
 	}
 	.section_02__right.mobile_only h2{
-		margin-top: 10px;
+		margin-top: 5px;
 	}
 	.section_02__left_container{
 		border-width: 1.5vw;
@@ -1586,6 +1586,7 @@ h2 .fontstyle{
 		height: 90px;
 		background-position: left top;
 		background-image: url(art2.png);
+		left: 0;
 	}
 	.section_04:before{
 		width: 61px;
