@@ -10,13 +10,12 @@
     font-style: normal;
 }
 
-img,legend{border:0}
-legend,td,th{padding:0}
+img{border:0}
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
 body,figure{margin:0}
-aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,optgroup,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}svg:not(:root){overflow:hidden}hr{box-sizing:content-box;height:0}pre,textarea{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}table{border-collapse:collapse;border-spacing:0}
+footer,header,main,menu,nav,section{display:block}a:active,a:hover{outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}svg:not(:root){overflow:hidden}hr{box-sizing:content-box;height:0}button,select{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
 
-h1,h2,h3,h4,h5,h6{clear:both}p{margin: 0;margin-bottom:20px;}cite,dfn,em,i{font-style:italic}blockquote{margin:0 1.5em}address{margin:0 0 1.5em}pre{background:#eee;font-family:"Courier 10 Pitch",Courier,monospace;font-size:15px;font-size:.9375rem;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:1.6em}code,kbd,tt,var{font-family:Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;font-size:15px;font-size:.9375rem}abbr,acronym{border-bottom:1px dotted #666;cursor:help}ins,mark{background:#fff9c0;text-decoration:none}big{font-size:125%}
+h1,h2,h3{clear:both}p{margin: 0;margin-bottom:20px;}cite,dfn,em,i{font-style:italic}blockquote{margin:0 1.5em}address{margin:0 0 1.5em}pre{background:#eee;font-family:"Courier 10 Pitch",Courier,monospace;font-size:15px;font-size:.9375rem;line-height:1.6;margin-bottom:1.6em;max-width:100%;overflow:auto;padding:1.6em}code,kbd,tt,var{font-family:Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace;font-size:15px;font-size:.9375rem}abbr,acronym{border-bottom:1px dotted #666;cursor:help}ins,mark{background:#fff9c0;text-decoration:none}big{font-size:125%}
 p {
     margin: 0;
     margin-bottom: 11px;
@@ -31,7 +30,7 @@ body{
 	font-size: 22px;
     	line-height: 1.75;
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3{
 	font-family: 'Red Hat Display', sans-serif;
 	margin: 0;
 	margin-bottom: 10px;
@@ -54,25 +53,6 @@ h3,
 	font-size:22px;
 	line-height: 1.6;
 }
-h4,
-.h4{
-	font-size:18px;
-	line-height: 1.6;
-	font-weight:700;
-}
-h5,
-.h5{
-
-}
-h6,
-.h6{
-
-}
-
-p + h1, p + h2, p + h3, p + h4, p + h5, p + h6{
-	margin-top:30px;
-}
-
 a{
 	color: #9966e5;
 	text-decoration:none;
@@ -93,16 +73,9 @@ a:hover{
 	h3, .h3 {
 		font-size: 18px;
 	}
-	h4, h4 {
-		font-size: 16px;
-	}
 	article {
 		font-size: 17px;
 	}
-}
-
-br.mo{
-	display:none;
 }
 
 hr {
@@ -113,8 +86,8 @@ hr {
 	margin-bottom: 1.5em;
 }
 img {
-	height: auto; /* Make sure images are scaled correctly. */
-	max-width: 100%; /* Adhere to container width. */
+	height: auto;
+	max-width: 100%;
 	vertical-align: bottom;
 }
 
@@ -131,12 +104,6 @@ ul {
 ol {
 	list-style: decimal;
 }
-li > ul,
-li > ol {
-	margin-bottom: 0;
-	margin-left: 1.5em;
-}
-
 html {
 	box-sizing: border-box;
 }
@@ -149,26 +116,10 @@ html {
 *:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 	box-sizing: inherit;
 }
-.clear{
-	/* width:100%; */
-	/* height:0px; */
-	/* display:block; */
-	/* clear:both; */
-	/* position:relative; */
-}
-.clearfix:before,
-.clearfix:after{
-
-
-	content:" ";
-	width:100%;
-	display:table;
-	clear:both;
-}
 
 .button,
 .button-alt{
-	padding-right: 35px;
+    padding-right: 35px;
     padding-left: 35px;
     padding-top: 12px;
     padding-bottom: 11px;
@@ -226,7 +177,7 @@ html {
 	text-decoration: none;
 	top: 5px;
 	width: auto;
-	z-index: 100000; /* Above WP toolbar. */
+	z-index: 100000; 
 }
 
 .main-logo {
@@ -431,7 +382,6 @@ html {
     display: block;
 }
 
-
 a.responsive-menu-hand{
 	position: absolute;
 	bottom: 18px;
@@ -561,15 +511,9 @@ a.responsive-menu-close:hover{
 .fixed-header.active{
 	top:0;
 }
-.admin-bar .fixed-header.active{
-	top:32px;
-}
 .fixed-header .logo{
 	padding-bottom: 9px;
 	padding-top: 13px;
-}
-.fixed-header .logo img{
-	
 }
 .fixed-header .header-left{
 	padding-bottom: 0;
@@ -709,7 +653,6 @@ a.responsive-menu-close:hover{
     margin: 0;
     font-stretch: normal;
     line-height: 1.08;
-    /* text-align: center; */
 }
 
 @media screen and (max-width: 980px){
@@ -822,7 +765,6 @@ a.responsive-menu-close:hover{
 	color: #22bede;
 }
 
-
 @media (max-width: 768px) {
 	
 	.site-footer span.copy_right{
@@ -856,7 +798,7 @@ a.responsive-menu-close:hover{
 	z-index:1;
 }
 .section_hero_bg{
-	position: absolute;
+    position: absolute;
     height: 711px;
     width: 70%;
     top: 0px;
@@ -864,7 +806,7 @@ a.responsive-menu-close:hover{
     background-size: 1439px;
     background-repeat: no-repeat;
     background-position: right bottom;
-    background-image: url(https://andreanthony.github.io/corybg.jpg);
+    background-image: url(corybg.jpg);
 }
 .section_hero_bg img{
 	opacity: 0;
@@ -939,9 +881,6 @@ a.responsive-menu-close:hover{
 }
 .section_hero_right img{
 	opacity: 0;
-}
-@media (max-width: 1250px) {
-/* 1000 */
 }
 @media (max-width: 1100px) {
 	.section_hero_bg{
@@ -1124,7 +1063,7 @@ h2 .fontstyle{
 	position: relative;
 	z-index: 32;
 	border-color: #ffffff;
-	background-image: url(https://andreanthony.github.io/cory6.png);
+	background-image: url(cory6.png);
 }
 .section_02__left_container img{
 	width:50%;
@@ -1142,7 +1081,7 @@ h2 .fontstyle{
     background-position: center;    
 }
 .section_02__left_container img{
-	width: 100%;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -1281,9 +1220,7 @@ h2 .fontstyle{
 		height: 72%;
 	}
 }
-@media (max-width: 900px) {
-/* 600 */
-}
+
 @media (max-width: 768px) {
 	.section_02:before {
 		width: 29vw;
@@ -1319,6 +1256,7 @@ h2 .fontstyle{
 		letter-spacing: 0.6vw;
 		padding-bottom: 0;
 		margin-top: 2.3vw;
+		margin-left: 0;
 	}
 	.section_02__only_content .button-alt2:before{
 		width: 88%;
@@ -1428,9 +1366,6 @@ h2 .fontstyle{
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.section_04__content_items{
-
-}
 .section_04__content_items h2:after{
 	content: "";
     position: absolute;
@@ -1461,9 +1396,6 @@ h2 .fontstyle{
 .section_04__content_items p strong{
 	color: #000000;
 	text-align: left;
-}
-.section_04__content_items p strong span{
-
 }
 
 @media (max-width: 1250px) {
@@ -1571,10 +1503,7 @@ h2 .fontstyle{
 		padding-top: 0;
 		padding-bottom: 0;
 		text-align: center;
-	}
-	.section_04__bottom{
-
-	}
+	}	
 	.section_04__only_content_in{
 	display: inline-block;
 	}
@@ -1615,97 +1544,6 @@ h2 .fontstyle{
 		top: auto;
 		bottom: -13vw;
 		left: auto;
-	}
-}
-
-.Cookie_notification{
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	top: 0;
-	left: 0;
-	background-color: rgba(0, 0, 0, 0.55);
-	z-index: 99;
-	display: none;
-}
-.Cookie_notification_in{
-	position: absolute;
-	width: 476px;
-	height: 270px;
-	background-color: #FCFCFC;
-	background-image: url(/wp-content/uploads/2019/10/cookie-bg.jpg);
-	background-repeat: no-repeat;
-	background-position: right top;
-	background-size: contain;
-	bottom: 10px;
-	left: 10px;
-	box-sizing: border-box;
-	padding: 30px 45px;
-}
-.Cookie_notification h6{
-	text-transform:uppercase;
-	color:#000;
-	font-size:22px;
-	font-weight:bold;
-	margin-bottom: 2px;
-}
-.Cookie_notification article{
-	color:#000;
-	font-size: 18px;
-	line-height: 1.6;
-	margin-bottom:15px;
-	font-weight: 500;
-}
-.Cookie_notification a{
-	color:#000;
-	font-size: 17px;
-	letter-spacing:4px;
-	font-weight:500;
-	text-transform:uppercase;
-	position:relative;
-	display: inline-block;
-	padding-bottom: 10px;
-}
-.Cookie_notification a:after{
-	position:absolute;
-	content:" ";
-	width: 90%;
-	height:1px;
-	background-color:#000;
-	bottom:0;
-	left:0;
-}
-.Cookie_notification span{
-	position:absolute;
-	top: 15px;
-	background-image: url(x.svg);
-	right: 15px;
-	font-size: 0;
-	width: 21px;
-	height: 21px;
-	display: inline-block;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: contain;
-	cursor: pointer;
-}
-@media (max-width: 550px){
-	.Cookie_notification_in{
-		width:90%;
-		height:auto;
-		padding:10px 20px;
-	}
-	.Cookie_notification h6{
-		font-size: 16px;
-	}
-	.Cookie_notification article{
-		font-size:14px;
-		margin-bottom: 4px;
-	}
-	.Cookie_notification a{
-		font-size:14px;
-		letter-spacing:1px;
-		padding-bottom:2px;
 	}
 }
 
