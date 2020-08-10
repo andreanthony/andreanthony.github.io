@@ -1583,9 +1583,7 @@ h2 .fontstyle{
 		padding-bottom: 20px;
 	}
 	.section_04:after{
-		width: 61px;
 		height: 90px;
-		top: 0px;
 		background-position: left top;
 		background-image: url(art2.png);
 	}
