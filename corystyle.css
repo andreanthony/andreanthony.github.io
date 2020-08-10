@@ -1499,6 +1499,18 @@ h2 .fontstyle{
 
 }
 
+.section_04:before{
+	content: "";
+	position: absolute;
+	width: 306px;
+	height: 225px;
+	top: -72px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(art.png);
+}
+
 @media (max-width: 1250px) {
 	.section_04__top h2 .fontstyle{
 		font-size: 49px;
@@ -1754,17 +1766,6 @@ h2 .fontstyle{
 .section_04.section_04_new{
 	position: relative;
 	padding-bottom: 0px;
-}
-.section_04:before{
-	content: "";
-	position: absolute;
-	width: 306px;
-	height: 225px;
-	top: -72px;
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-image: url(art.png);
 }
 
 @media screen and (max-width: 768px){	
