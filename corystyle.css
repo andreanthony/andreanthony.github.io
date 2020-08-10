@@ -1050,7 +1050,7 @@ a.responsive-menu-close:hover{
 @media (max-width: 768px) {
 	.section_hero_bg {
 		width: 500px;
-		right: -47vw;		
+		right: -220px;		
 	}
 	.section_hero_left span {
 		width: 70vw;
