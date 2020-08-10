@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,500i,700,700i&display=swap');
 
-img{border:0}
+img{border:0}body{margin:0}
 html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
-body,figure{margin:0}
 footer,header,main,menu,nav,section{display:block}a:active,a:hover{outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}svg:not(:root){overflow:hidden}hr{box-sizing:content-box;height:0}button,select{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
 
 p{margin: 0;margin-bottom:20px;}em,i{font-style:italic}
@@ -83,7 +82,6 @@ img {
 	max-width: 100%;
 	vertical-align: bottom;
 }
-
 ul,
 ol {
     padding: 0;
@@ -138,8 +136,7 @@ html {
 	opacity:0.8;
 }
 
-.section-inner,
-.site-content-in{
+.section-inner {
 	max-width: 1040px;
 	width: 86%;
 	margin:0 auto;
