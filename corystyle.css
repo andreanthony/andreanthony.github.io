@@ -823,7 +823,7 @@ a.responsive-menu-close:hover{
 }
 .footer-menu #footer_menu{
 	margin:0;
-	padding:0;
+	padding-top: 20px;
 	display:inline-block;
 	list-style-type: none;
 }
