@@ -226,10 +226,6 @@ html {
 	width: auto;
 	z-index: 100000; /* Above WP toolbar. */
 }
-/* Do not show the outline on the skip link target. */
-#content[tabindex="-1"]:focus {
-	outline: 0;
-}
 
 .main-logo {
 	width: 56px;
@@ -246,12 +242,10 @@ html {
 	color:#FFF;
 	text-align:center;
 	letter-spacing: 4px;
-	font-size: 16.5px;
 }
 .site-header-top .section-inner strong{
 	color:#22bede;
 	font-weight: 600;
-	font-size: 16px;
 	padding-right: 5px;
 }
 .site-header-top .section-inner a{
@@ -1729,7 +1723,4 @@ h2 .fontstyle{
 		position: relative;
 		padding-bottom: 0;
 	}
-}
-@media screen and (max-width: 550px){
-
 }
