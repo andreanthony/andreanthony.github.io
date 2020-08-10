@@ -1318,11 +1318,10 @@ h2 .fontstyle{
 @media (max-width: 768px) {
 	.section_02:before {
 		width: 29vw;
-		height: 35vw;
+		height: 64px;
 		background-size: contain;
 		background-position: top right;
-		top: -16vw;
-		right: -5vw;		
+		left: 30px;		
 	}
 	.section_02__right h2{
 	    font-size: 8vw;
@@ -1502,13 +1501,13 @@ h2 .fontstyle{
 .section_04:before{
 	content: "";
 	position: absolute;
-	width: 306px;
-	height: 225px;
-	top: -72px;
+	width: 174px;
+	height: 262px;
+	top: 20px;
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-image: url(art.png);
+	background-image: url(art3.png);
 }
 
 @media (max-width: 1250px) {
@@ -1552,18 +1551,7 @@ h2 .fontstyle{
 	.section_04__top h2 span{
 		position:relative;
 	}
-	.section_04__top h2 > span:after{
-		content:" ";
-		position:absolute;
-		width:100vw;
-		height: 0.9vw;
-		background-color:#B0F9E2;
-		top: 6vw;
-		right: 114%;
-	}
-	.section_04__top h2 > span + span:after{
-		display:none;
-	}
+
 	.section_04__top h2 .fontstyle {
 		font-size: 7.4vw;
 		padding-left: 44vw;
@@ -1611,10 +1599,13 @@ h2 .fontstyle{
 		background-position: right top;
 	}
 	.section_04:before{
-		width: 55vw;
-		height: 50vw;
+		width: 61px;
+		height: 90px;
 		background-size: 75vw;
-		background-position: right bottom;
+		background-position: left top;
+		background-size: contain;
+		top: 0px;
+		left: 0px
 	}
 	.section_04{
 		padding-bottom: 40vw;
