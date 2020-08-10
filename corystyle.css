@@ -201,11 +201,6 @@ html {
 	opacity:0.8;
 }
 
-.site-content-in{
-	display:flex;
-	flex-wrap:wrap;
-}
-
 .section-inner,
 .site-content-in{
 	max-width: 1040px;
@@ -819,18 +814,6 @@ a.responsive-menu-close:hover{
 	letter-spacing: 3px;
 	color: #d8d8d8;
 }
-.site-footer span.design-by{
-	text-transform: uppercase;
-	font-size: 15px;
-	letter-spacing: 1.5px;
-}
-.site-footer span.design-by a{
-	color:#6bbdb9;
-}
-.site-footer span.design-by a:hover{
-	color:#FFF;
-}
-
 .footer-menu{
 	text-align: center;
 	padding-bottom:15px;
@@ -870,168 +853,16 @@ a.responsive-menu-close:hover{
 	color: #22bede;
 }
 
-@media screen and (max-width: 1250px){
-	.site_footer_top_right h2 {
-		font-size: 23px;
-	}
-	
-}
-@media screen and (max-width: 650px){
-	.footer-widget.col-md-3{
-	    width: 100%;
-	}
-	.footer-widget.col-md-3 .widget{
-		margin-bottom:10px;
-	}
-	.footer-widget.col-md-2 {
-		width: 33.33%;
-		float: left;
-	}
-}
-
-@media (max-width: 1100px) {
-	.site_footer_top_right h2{
-    	font-size: 20px;		
-	}
-	.site_footer_top_right_in {
-		height: 210px;
-	}
-	.site_footer_top_right_in #sb_instagram .sbi_photo {
-		height: 210px !important;
-	}
-}
-@media (max-width: 1024px) {
-	.site_footer_top_left {
-		width: 100%;
-		padding-right: 0px;
-		padding-bottom: 35px;
-	}
-	.site_footer_top_left h2 {
-		text-align: center;
-	}
-	.site_footer_top_left h2 br,
-	.site_footer_top_left:before{
-		display:none;
-	}
-	.site_footer_top_right_social {
-		text-align: center;
-	}
-	.site_footer_top_right {
-		width: 100%;
-		position: relative;
-	}
-	.site_footer_top_right_in .full-right-bg {
-		display: none;
-	}
-	.site_footer_top_right_in .full-bg-mobile.active {
-		opacity: 1;
-		display: block;
-	}
-	.site_footer_top_right h2 {
-		text-align: center;
-	}
-	.site_footer_top_left{
-		display:none;
-	}
-	.mobile_ig_feed{
-		display:block;
-	}
-	.site_footer_top_right_in{
-		display:none;
-	}
-	.mobile_ig_feed .site_footer_top_left{
-		display:block;
-		padding-top: 34px;
-	}
-}
 
 @media (max-width: 768px) {
 	
-	.site_footer_top{padding-top: 10vw;}
-	.site_footer_top_right_social{
-		margin-bottom: 0;
-	}
-	.site_footer_top_left{
-		display:none;
-	}
-	.site_footer_top_left h2 {
-		text-align: center;
-		font-size: 6vw;
-	}
-	.site_footer_top_left h2 span{
-		font-size: 12vw;
-		margin-top: -6vw;
-	}
 	.site-footer span.copy_right{
 	    font-size: 2vw;
     	letter-spacing: 0px;	
 	}
-	#sb_instagram.sbi_col_4 #sbi_images .sbi_item {
-		width: 33.33% !important;
-	}
 	.site-footer span.copy_right {
 		font-size: 2.9vw;
 		letter-spacing: 0px;
-	}
-	.site-footer span.design-by {
-		text-transform: uppercase;
-		font-size: 2.5vw;
-		letter-spacing: 1.5px;
-	}
-	.site_footer_top_right_in{
-		height:auto;
-	}
-	#sb_instagram .sbi_photo{
-		height: 32vw !important;
-	}
-	.mobile_ig_feed .site_footer_top_left{
-		display:block;
-		padding-top: 5vw;
-		padding-bottom: 5vw;
-	}
-	.site_footer_top_right_social ul{
-		margin-top: -5vw;
-	}
-	.site_footer_top_right_social ul li{
-		width: 5.23vw;
-		height: 5.23vw;
-	}
-	.site_footer_top_right_social ul li a{
-		width: 5.23vw;
-		height: 5.23vw;
-		background-size: 4vw;
-	}
-	.site_footer_top_right_social ul li.youtube{
-		margin-left: 0.8vw;
-	}
-	.site_footer_top_right_social ul li.youtube a{
-		background-size: 5vw;
-	}
-	.site_footer_top_right_social ul li.faceb a{
-		background-size: 1.8vw;
-	}
-	.site_footer_top_right_social ul li.linkedin a{
-		background-size: 3.7vw;
-	}
-	.site_footer_top:before{
-		top: -9vw;
-		left: -10vw;
-		width: 30vw;
-		height: 30vw;
-		background-position: top right;
-		background-size: contain;
-	}
-	.site_footer_top_right h2{
-		font-size: 4.5vw;
-		padding-bottom: 0;
-		margin-bottom: 7vw;
-	}
-	.site_footer_top_right h2 mark{
-		font-size: 9vw;
-		background-position: 0px 5.5vw;
-		background-size: 25vw;
-		margin-left: 1vw;
-		margin-right: 1vw;
 	}
 	.site-footer{
 		padding-top: 5vw;
@@ -1064,6 +895,7 @@ a.responsive-menu-close:hover{
     background-size: 1439px;
     background-repeat: no-repeat;
     background-position: right bottom;
+    background-image: url(https://andreanthony.github.io/corybg.jpg);
 }
 .section_hero_bg img{
 	opacity: 0;
@@ -1195,9 +1027,6 @@ a.responsive-menu-close:hover{
 		margin-left: -71px;
 		margin-bottom: 21px;
 	}
-	.section_hero_left mark em:after {
-		bottom: 10px;
-	}
 }
 @media (max-width: 900px) {
 	.section_hero .section-inner{
@@ -1325,6 +1154,7 @@ h2 .fontstyle{
 	position: relative;
 	z-index: 32;
 	border-color: #ffffff;
+	background-image: url(https://andreanthony.github.io/cory6.png);
 }
 .section_02__left_container img{
 	width:50%;
@@ -1835,6 +1665,7 @@ h2 .fontstyle{
 	left: 0;
 	background-color: rgba(0, 0, 0, 0.55);
 	z-index: 99;
+	display: none;
 }
 .Cookie_notification_in{
 	position: absolute;
@@ -1917,7 +1748,7 @@ h2 .fontstyle{
 	}
 }
 
-  .section_04.section_04_new{
+.section_04.section_04_new{
 	position: relative;
 	padding-bottom: 0px;
 }
