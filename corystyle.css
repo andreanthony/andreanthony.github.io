@@ -1585,9 +1585,10 @@ h2 .fontstyle{
 	}
 	.section_04:after{
 		height: 90px;
-		background-position: left top;
+		background-position: left;
 		background-image: url(art2.png);
 		left: 0;
+		margin-top: -15px;
 	}
 	.section_04:before{
 		width: 61px;
