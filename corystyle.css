@@ -1310,12 +1310,9 @@ h2 .fontstyle{
     content: "";
     position: absolute;
     width: 233px;
-    height: 225px;
     top: 20px;
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
-    background-image: url(https://andreanthony.github.io/art3.png);
 }
 
 .section_04 .section-inner{
