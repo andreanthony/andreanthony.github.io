@@ -595,7 +595,7 @@ a.responsive-menu-close:hover{
 }
 @media screen and (max-width: 768px){
 	.site-header-top .section-inner{
-	    font-size: 2.5vw;
+	    font-size: 11.8px;
 	    line-height: 1.4;
 	    letter-spacing: 0.5vw;
 	}
@@ -621,7 +621,7 @@ a.responsive-menu-close:hover{
 		padding-bottom: 2vw;
 	}
 	.site-header-top .section-inner strong{
-		font-size: 2.2vw;
+		font-size: 13px;
 		padding-right: 0.5vw;
 		font-weight: normal;
 	}
