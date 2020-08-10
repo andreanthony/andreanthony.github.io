@@ -1220,8 +1220,8 @@ h2 .fontstyle{
     content: "";
     position: absolute;
     width: 4px;
-    height: 93%;
-    top: 9px;
+    height: 100%;
+    top: 0px;
     right: -32px;
     background-color: #b0f9e2;
 }
