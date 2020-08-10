@@ -1415,8 +1415,7 @@ h2 .fontstyle{
     position: absolute;
     width: 306px;
     height: 225px;
-    top: -72px;
-    right: -65px;
+    top: 20px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -1496,18 +1495,6 @@ h2 .fontstyle{
 }
 .section_04__content_items p strong span{
 
-}
-
-.section_04:before{
-	content: "";
-	position: absolute;
-	width: 174px;
-	height: 262px;
-	top: 20px;
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-image: url(art3.png);
 }
 
 @media (max-width: 1250px) {
@@ -1592,11 +1579,11 @@ h2 .fontstyle{
 		padding-bottom: 20px;
 	}
 	.section_04:after{
-		width: 22vw;
-		height: 29vw;
-		top: -5vw;
-		right: -1.6vw;
-		background-position: right top;
+		width: 61px;
+		height: 90px;
+		top: 0px;
+		right: 0px;
+		background-position: left top;
 	}
 	.section_04:before{
 		width: 61px;
