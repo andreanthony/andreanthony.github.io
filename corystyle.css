@@ -1249,6 +1249,9 @@ h2 .fontstyle{
 		margin-top: 2.3vw;
 		margin-left: 0;
 	}
+	.section_02__only_content .button-alt2:hover{
+		transform: scale(2) perspective(1px);
+	}
 	.section_02__only_content .button-alt2:before{
 		width: 88%;
 		right: inherit;
