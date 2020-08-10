@@ -1515,7 +1515,7 @@ h2 .fontstyle{
 		position: relative;
 		padding-bottom: 120px;
 	}
-	.section_04.section_04_new:before {
+	.section_04:before {
 		width: 410px;
 		height: 235px;
 		background-size: 410px;
@@ -1598,7 +1598,7 @@ h2 .fontstyle{
 		right: -1.6vw;
 		background-position: right top;
 	}
-	.section_04.section_04_new:before{
+	.section_04:before{
 		width: 55vw;
 		height: 50vw;
 		background-size: 75vw;
@@ -1755,7 +1755,7 @@ h2 .fontstyle{
 	position: relative;
 	padding-bottom: 0px;
 }
-.section_04.section_04_new:before{
+.section_04:before{
 	content: "";
 	position: absolute;
 	width: 306px;
