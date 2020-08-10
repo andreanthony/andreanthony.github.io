@@ -1147,7 +1147,10 @@ h2 .fontstyle{
 	display: flex;
 	flex-wrap: wrap;
 }
-.section_02__left{width: 50%;}
+.section_02__left {
+	width: 50%;
+	margin-top: -50px;
+}
 .section_02__left_container{
 	width: 100%;
 	background-repeat: no-repeat;
@@ -1207,7 +1210,7 @@ h2 .fontstyle{
 }
 .section_02__right h3{
 	position:relative;
-	text-align: right;
+	text-align: center;
 	font-size: 36px;
 	line-height: 1.25;
 	letter-spacing: 1.5px;
@@ -1224,7 +1227,8 @@ h2 .fontstyle{
     background-color: #b0f9e2;
 }
 .section_02__only_content{
-	padding-left: 478px;
+	margin-left: 478px;
+	margin-top: -150px;
 }
 .section_02__only_content article{
 	padding-top: 29px;
@@ -1237,7 +1241,6 @@ h2 .fontstyle{
 	line-height: 1.8;
 }
 .section_02__only_content .button-alt2{
-	margin-top: -2px;
 	display: inline-block;
 	font-size: 18.5px;
 	font-weight: 500;
@@ -1245,9 +1248,9 @@ h2 .fontstyle{
 	letter-spacing: 3px;
 	position: relative;
 	padding-bottom: 15px;
-	margin-top: 2px;
 	transition: all 1s ease;
   	transform: scale(1);
+	margin-left: 10px;
 }
 .section_02__only_content .button-alt2:before {
     position: absolute;
@@ -1275,6 +1278,7 @@ h2 .fontstyle{
 @media (max-width: 1024px) {
 	.section_02__left {
 		width: 100%;
+		margin-top: 0px;
 	}
 	.section_02__left_container{
 		height:auto;
@@ -1365,14 +1369,14 @@ h2 .fontstyle{
 		
 	}
 	.section_02__right h2 span{
-
+		text-align: center;
 	}
 	.section_02__right.mobile_only h2{
-		margin-right: 8vw;
+		margin-top: 20px;
 	}
 	.section_02__left_container{
 		border-width: 1.5vw;
-		margin-left: 35px;
+		margin-left: 27px;
 		width: calc(100% - 15vw);
 	}
 	.section_02__left_container:before{
@@ -1383,11 +1387,10 @@ h2 .fontstyle{
 	}
 	.section_02__right{
 		padding-top: 0px;
-		padding-left: 21.6px;
 	}
 	.section_02__right h3{
 		font-size: 4.5vw;
-		padding-right: 6vw;
+		padding-right: 0;
 		line-height: 1.45;
 	}
 	.section_02__right h3:after{
