@@ -1309,6 +1309,8 @@ h2 .fontstyle{
 	}
 	.section_02__only_content {
 		padding-left: 21.6px;
+		margin-left: 0px;
+		margin-top: 0px;
 	}
 
 	.section_02:after {
