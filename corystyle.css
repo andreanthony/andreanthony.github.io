@@ -895,12 +895,10 @@ a.responsive-menu-close:hover{
 }
 .section_hero_left .let_me {
 	width:100%;
-	margin:0;
-	padding: 0px;
 	display:block;
 	text-align: right;
 	margin-top: 47px;
-	padding-right: 24px;
+	padding-right: 64px;
 }
 .section_hero_left .let_me a{
 	font-size: 19px;
@@ -919,7 +917,7 @@ a.responsive-menu-close:hover{
 .section_hero_left .let_me a:before {
     position: absolute;
     content: "";
-    width: 80%;
+    width: 97%;
     height: 2px;
     background-color: #000000;
     bottom: 0px;
