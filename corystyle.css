@@ -1022,7 +1022,7 @@ a.responsive-menu-close:hover{
 	}
 	.section_hero_left span {
 		width: 70vw;
-		margin-left: -12vw;
+		margin-left: 0;
 		margin-bottom: 3.7vw;
 	}
 	.section_hero .section-inner{
