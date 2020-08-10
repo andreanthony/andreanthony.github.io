@@ -185,9 +185,6 @@ html {
 
 .main-logo {
 	width: 56px;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
 }
 
 .site-header-top{
@@ -1434,7 +1431,6 @@ h2 .fontstyle{
 		width: 50%;
 	}
 }
-
 @media (max-width: 768px) {
 	.section_04__top h2{
 		font-size: 8vw;
