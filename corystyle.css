@@ -1318,7 +1318,7 @@ h2 .fontstyle{
 @media (max-width: 768px) {
 	.section_02:before {
 		width: 29vw;
-		height: 64px;
+		height: 0px;
 		background-size: contain;
 		background-position: top right;
 		left: 30px;		
