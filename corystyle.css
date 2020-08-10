@@ -1191,12 +1191,11 @@ h2 .fontstyle{
 	padding-top: 0px;
 }
 .section_02__right h2{
-	color: #9966e5;
 	letter-spacing: 2.5px;
 }
 .section_02__right h2 span{
 	color: #000000;
-	text-align: right;
+	text-align: center;
 	display: block;
 }
 .section_02__right h2 .fontstyle{
@@ -1251,6 +1250,7 @@ h2 .fontstyle{
 	transition: all 1s ease;
   	transform: scale(1);
 	margin-left: 10px;
+	top: -50px;
 }
 .section_02__only_content .button-alt2:before {
     position: absolute;
@@ -1392,6 +1392,7 @@ h2 .fontstyle{
 		font-size: 4.5vw;
 		padding-right: 0;
 		line-height: 1.45;
+		text-align: center;
 	}
 	.section_02__right h3:after{
 		right: 0;
