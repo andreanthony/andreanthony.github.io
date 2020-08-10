@@ -233,12 +233,7 @@ html {
 	padding-top: 44px;
 	padding-bottom: 40px;
 }
-#secondary{
-	width: 25%;
-	padding-top: 60px;
-	padding-bottom: 50px;
-	box-sizing: border-box;
-}
+
 .section-inner,
 .site-content-in{
 	max-width: 1040px;
@@ -2006,11 +2001,11 @@ h2 .fontstyle{
 .Cookie_notification span{
 	position:absolute;
 	top: 15px;
-	background-image: url(https://www.vanessalau.co/wp-content/uploads/2019/10/cokie-close.png);
+	background-image: url(x.svg);
 	right: 15px;
 	font-size: 0;
-	width: 11px;
-	height: 11px;
+	width: 21px;
+	height: 21px;
 	display: inline-block;
 	background-repeat: no-repeat;
 	background-position: center;
