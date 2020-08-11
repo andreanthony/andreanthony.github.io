@@ -958,16 +958,7 @@ a.responsive-menu-close:hover{
 }
 
 h2 .fontstyle{
-	font-size: 58px;
 	display: block;
-	color: #000;
-	text-align: left;
-	font-family: 'Red Hat Display';
-	font-weight: bold;
-	padding-left: 277px;
-	font-style: normal;
-	margin-top: -10px;
-	transform: rotate(-3.3deg);
 }
 .section_02{
 	position:relative;
@@ -1287,7 +1278,6 @@ h2 .fontstyle{
 }
 .section_04__top h2 .fontstyle{
     padding-left: 213px;
-    transform: none;
     margin-top: -8px;
     font-size: 64px;
     letter-spacing: -1px;
