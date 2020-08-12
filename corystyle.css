@@ -895,7 +895,7 @@ h2 .fontstyle{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url(art3.png);
+    background-image: url(art.png);
     z-index: 0;
 }
 .section_02 .section-inner{
@@ -1168,7 +1168,7 @@ h2 .fontstyle{
     height: 4px;
     top: 31px;
     right: 88px;
-    background-color: #aff9e2;
+    background-color: #22bede;
 }
 .section_04__top h2{
 	color: #000;
@@ -1298,7 +1298,7 @@ h2 .fontstyle{
 		left: 0px;
 		background-size: contain;
 		background-repeat: no-repeat;
-		background-image: url(art3.png);		
+		background-image: url(art.png);		
 	}
 	.section_04__top{margin-bottom: 5px;}
 	.section_04__only_content{
