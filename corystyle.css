@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,500i,700,700i&display=swap');
 
 img{border:0}body{margin:0}
-html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
 footer,header,main,menu,nav,section{display:block}a:active,a:hover{outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}
 
 p{margin: 0;margin-bottom:20px;}em,i{font-style:italic}
@@ -74,18 +73,12 @@ img {
 	max-width: 100%;
 	vertical-align: bottom;
 }
-ul,
-ol {
+ul {
     padding: 0;
     margin: 0;
     margin-bottom: 20px;
     margin-left: 20px;
-}
-ul {
-	list-style: disc;
-}
-ol {
-	list-style: decimal;
+    list-style: disc;
 }
 html {
 	box-sizing: border-box;
@@ -545,24 +538,6 @@ a.responsive-menu-close:hover{
 }
 .mobile_only{
 	display: none;
-}
-
-.page-hero{
-    background-color: #ffffff;
-    padding-top: 60px;
-    padding-bottom: 30px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-bottom: solid 1px #eee;
-}
-
-.page-hero h1{
-    color: #000;
-    font-size: 40px;
-    margin: 0;
-    font-stretch: normal;
-    line-height: 1.08;
 }
 
 @media screen and (max-width: 980px){
@@ -1201,20 +1176,6 @@ h2 .fontstyle{
 		padding-bottom: 0;
 	}
 }
-
-.section_04{
-	position: relative;
-	padding-bottom: 275px;
-}
-.section_04:after{
-    content: "";
-    position: absolute;
-    width: 233px;
-    top: 20px;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
 .section_04 .section-inner{
 	max-width: 1178px;
 }
@@ -1295,12 +1256,6 @@ h2 .fontstyle{
 		position: relative;
 		padding-bottom: 120px;
 	}
-	.section_04:before {
-		width: 410px;
-		height: 235px;
-		background-size: 410px;
-		background-position: center top;
-	}
 }
 @media (max-width: 1024px) {
 	.section_04__top:after {
@@ -1358,22 +1313,6 @@ h2 .fontstyle{
 	.section_04__content_items {
 		width: 50%;
 		padding-bottom: 20px;
-	}
-	.section_04:after{
-		height: 90px;
-		background-position: left;
-		background-image: url(art3.png);
-		left: 0;
-		margin-top: -15px;
-	}
-	.section_04:before{
-		width: 61px;
-		height: 90px;
-		background-size: 75vw;
-		background-position: left top;
-		background-size: contain;
-		top: 0px;
-		left: 0px
 	}
 	.section_04{
 		padding-bottom: 40vw;
