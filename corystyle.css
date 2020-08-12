@@ -754,13 +754,6 @@ a.responsive-menu-close:hover{
 	height: 2px;
 	margin-top: -3px;
 }
-.section_hero_right{
-    width: 42%;
-    height: 611px;
-}
-.section_hero_right img{
-	opacity: 0;
-}
 @media (max-width: 1100px) {
 	.section_hero_bg{
     	width: 100%;
