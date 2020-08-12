@@ -1292,6 +1292,17 @@ h2 .fontstyle{
 		width: 50%;
 		padding-bottom: 20px;
 	}
+	.section_04:after {
+		content: "";
+		position: absolute;
+		width: 120px;
+		height: 120px;
+		top: 5px;
+		left: 10px;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-image: url(art3.png);		
+	}
 	.section_04__top{margin-bottom: 5px;}
 	.section_04__only_content{
 		padding-top: 0;
