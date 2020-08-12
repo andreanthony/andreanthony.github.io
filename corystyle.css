@@ -1243,10 +1243,6 @@ h2 .fontstyle{
 	.section_04__top:after {
 		width: 55%;
 	}
-	.section_04 {
-		position: relative;
-		padding-bottom: 120px;
-	}
 }
 @media (max-width: 1024px) {
 	.section_04__top:after {
@@ -1305,9 +1301,6 @@ h2 .fontstyle{
 		width: 50%;
 		padding-bottom: 20px;
 	}
-	.section_04{
-		padding-bottom: 40vw;
-	}
 	.section_04__top{margin-bottom: 5px;}
 	.section_04__only_content{
 		padding-top: 0;
@@ -1360,11 +1353,4 @@ h2 .fontstyle{
 .section_04.section_04_new{
 	position: relative;
 	padding-bottom: 0px;
-}
-
-@media screen and (max-width: 768px){	
-	 .section_04.section_04_new{
-		position: relative;
-		padding-bottom: 0;
-	}
 }
