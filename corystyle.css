@@ -302,11 +302,6 @@ html {
 	left: 100%;
 }
 
-.main-navigation .current_page_item,
-.main-navigation .current-menu-item,
-.main-navigation .current_page_ancestor{
-	color:#000;
-}
 a.responsive-menu-hand{
 	position: absolute;
 	bottom: 18px;
