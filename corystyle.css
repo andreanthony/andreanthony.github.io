@@ -165,7 +165,6 @@ html {
 	width: 25%;
 	padding-top: 12px;
 	padding-bottom: 13px;
-	box-sizing: border-box;
 }
 .logo img{
 	max-width: 56px;
@@ -173,7 +172,6 @@ html {
 .header-left{
 	width: 75%;
 	text-align: right;
-	box-sizing: border-box;
 	padding-top: 13px;
 	padding-bottom: 16px;
 	position: relative;
