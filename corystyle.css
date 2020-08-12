@@ -25,7 +25,6 @@ h1, h2, h3{
 	font-family: 'Red Hat Display', sans-serif;
 	margin: 0;
 	margin-bottom: 10px;
-	color: #002059;
 	font-weight: bold;
 }
 h1,
@@ -44,13 +43,7 @@ h3,
 	font-size:22px;
 	line-height: 1.6;
 }
-a{
-	color: #9966e5;
-	text-decoration:none;
-}
-a:hover{
-	color:#002059;
-}
+
 @media screen and (max-width: 980px){
 	
 }
@@ -228,7 +221,7 @@ html {
 	color:#ffbb9e;
 }
 .main-navigation li a:hover{
-	color: inherit;
+	color: #22bede;
 }
 .main-navigation ul ul {
     float: left;
