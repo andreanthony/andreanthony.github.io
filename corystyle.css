@@ -666,7 +666,7 @@ a.responsive-menu-close:hover{
     position: absolute;
     height: 711px;
     width: 70%;
-    top: 0px;
+    top: -54px;
     right: -110px;
     background-size: 1439px;
     background-repeat: no-repeat;
@@ -818,6 +818,7 @@ a.responsive-menu-close:hover{
 		width: 500px;
 		right: -168px;	
 		margin-top: -10px;
+		top: 0px;
 	}
 	.section_hero_left span {
 		width: 70vw;
