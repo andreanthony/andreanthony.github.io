@@ -1300,7 +1300,7 @@ h2 .fontstyle{
 		background-repeat: no-repeat;
 		background-image: url(art.png);		
 	}
-	.section_04__top{margin-bottom: 5px;}
+	.section_04__top{margin-left: -125px;}
 	.section_04__only_content{
 		padding-top: 0;
 		padding-bottom: 0;
