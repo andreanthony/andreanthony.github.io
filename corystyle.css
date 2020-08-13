@@ -816,7 +816,8 @@ a.responsive-menu-close:hover{
 @media (max-width: 768px) {
 	.section_hero_bg {
 		width: 500px;
-		right: -168px;		
+		right: -168px;	
+		margin-top: -10px;
 	}
 	.section_hero_left span {
 		width: 70vw;
@@ -903,7 +904,7 @@ h2 .fontstyle{
 	position: relative;
 	z-index: 32;
 	border-color: #ffffff;
-	background-image: url(cory.png);
+	background-image: url(cory1.png);
 }
 .section_02__left_container img{
 	width:50%;
@@ -1104,7 +1105,7 @@ h2 .fontstyle{
 		padding-bottom: 5px;
 	}
 	.section_02__right.mobile_only{
-		padding-left: 20px;
+		padding-left: 167px;
 	}
 	.section_02__right h2 span{
 		text-align: center;
@@ -1114,9 +1115,9 @@ h2 .fontstyle{
 	}
 	.section_02__left_container{
 		border-width: 1.5vw;
-		margin-left: 27px;
-		width: calc(100% - 15vw);
-		margin-top: -8px;
+		margin-left: 0px;
+		width: 157px;
+		margin-top: -70px;
 	}
 	.section_02__left_container:before{
 		width: 40vw;
@@ -1132,6 +1133,10 @@ h2 .fontstyle{
 		padding-right: 0;
 		line-height: 1.45;
 		text-align: center;
+		height: 140px;
+		margin-top: -150px;
+		padding-left: 160px;
+		padding-top: 20px;
 	}
 	.section_02:after{
 		width: 27px;
