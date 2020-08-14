@@ -435,12 +435,6 @@ a.responsive-menu-close:hover{
 .fixed-header .site-header .section-inner{
     padding-top: 0px;
 }
-@media screen and (max-width: 600px){
-	.fixed-header{
-		display:none;
-	}
-}
-
 @media screen and (max-width: 1115px){
 	.main-navigation li {
 		margin-left: 12px;
