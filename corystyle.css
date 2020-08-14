@@ -588,7 +588,6 @@ a.responsive-menu-close:hover{
 	font-weight: 500;
 }
 .site-footer span.copy_right{
-	font-style: italic;
 	font-weight: 500;
 	padding-bottom: 6px;
 	font-size: 15px;
@@ -732,7 +731,6 @@ a.responsive-menu-close:hover{
 }
 .section_hero_left .let_me a:hover{
 	transform: scale(1.1) perspective(1px);
-	color: #22bede;
 }
 .section_hero_left hr{
 	background-color: #000000;
@@ -997,7 +995,6 @@ h2 .fontstyle{
 }
 .section_02__only_content .button-alt2:hover{
 	transform: scale(1.1) perspective(1px);
-	color: #22bede;
 }
 @media (max-width: 1250px) {
 	.section_02__right h2 .fontstyle {
