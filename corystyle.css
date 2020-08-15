@@ -605,8 +605,8 @@ a.responsive-menu-close:hover{
 }
 .footer-menu #footer_menu li a{
 	color: #fff;
-	padding-left:15px;
-	padding-right:15px;
+	padding-left:50px;
+	padding-right:50px;
 }
 .footer-menu #footer_menu li a:hover{
 	color: #22bede;
@@ -642,6 +642,10 @@ a.responsive-menu-close:hover{
 		padding-left: 2vw;
 		padding-right: 2vw;
 	}
+	.footer-menu #footer_menu {
+    		margin-top: 0px;
+    		margin-bottom: 0px;
+	}
 	.footer-menu #footer_menu li .linkedin::before {
 		font-size: 75px;
 	}
@@ -651,7 +655,10 @@ a.responsive-menu-close:hover{
 	.footer-menu #footer_menu li .instagram::before {
 		font-size: 65px;
 	}
-	
+	.footer-menu #footer_menu li a{
+		padding-left:15px;
+		padding-right:10px;
+	}	
 } 
 .section_hero{
     height: 711px;
