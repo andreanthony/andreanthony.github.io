@@ -570,7 +570,6 @@ a.responsive-menu-close:hover{
 	}
 
 }
-
 .site-footer{
     background-color: #000000;
     padding-top: 14px;
@@ -595,9 +594,8 @@ a.responsive-menu-close:hover{
 	padding-bottom:15px;
 }
 .footer-menu #footer_menu{
-	margin:0;
-	display:inline-block;
-	list-style-type: none;
+	margin-top: -50px;
+	margin-bottom: -50px;
 }
 .footer-menu #footer_menu ul{
 	display:none;
@@ -616,17 +614,17 @@ a.responsive-menu-close:hover{
 .footer-menu #footer_menu li .linkedin:before{
   	content: "\e09d";
   	font-family: "ETmodules";
-  	font-size: 75px;
+  	font-size: 180px;
 }
 .footer-menu #footer_menu li .twitter:before{
   	content: "\e094";
   	font-family: "ETmodules";
-  	font-size: 65px;
+  	font-size: 150px;
 }
 .footer-menu #footer_menu li .instagram:before{
   	content: "\e09a";
   	font-family: "ETmodules";
-  	font-size: 65px;
+  	font-size: 150px;
 }
 @media (max-width: 768px) {
 	
@@ -641,10 +639,19 @@ a.responsive-menu-close:hover{
 	.site-footer {
 		padding-top: 5vw;
 		padding-bottom: 5vw;
-		font-size: 20px;
 		padding-left: 2vw;
 		padding-right: 2vw;
 	}
+	.footer-menu #footer_menu li .linkedin::before {
+		font-size: 75px;
+	}
+	.footer-menu #footer_menu li .twitter::before {
+		font-size: 65px;
+	}
+	.footer-menu #footer_menu li .instagram::before {
+		font-size: 65px;
+	}
+	
 } 
 .section_hero{
     height: 711px;
