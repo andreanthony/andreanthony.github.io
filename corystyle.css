@@ -608,9 +608,6 @@ a.responsive-menu-close:hover{
 	padding-left:50px;
 	padding-right:50px;
 }
-.footer-menu #footer_menu li a:hover{
-	color: #22bede;
-}
 .footer-menu #footer_menu li .linkedin:before{
   	content: "\e09d";
   	font-family: "ETmodules";
