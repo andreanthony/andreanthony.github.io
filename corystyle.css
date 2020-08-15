@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,500i,700,700i&display=swap');
 
+@font-face {font-family: 'ETmodules'; src: url(https://db.onlinewebfonts.com/t/9d25ea5c587d0f9d470aa9a3634735ea.woff2);}
+
 img{border:0}body{margin:0}
 footer,header,main,menu,nav,section{display:block}a:active,a:hover{outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}
 
@@ -610,14 +612,26 @@ a.responsive-menu-close:hover{
 	padding-right:10px;
 	position: relative;
 }
-.footer-menu #footer_menu li a:after{
-	content:" ";
-	position:absolute;
-	top: 21%;
-	right: -2px;
-	width:1px;
-	height: 55%;
-	background-color:#fff;
+.footer-menu #footer_menu li .linkedin:before{
+  	content: "\e09d";
+  	font-family: "ETmodules";
+  	font-weight: normal;
+  	color: #fff;
+  	font-size: 70px;
+}
+.footer-menu #footer_menu li .twitter:before{
+  	content: "\e094";
+  	font-family: "ETmodules";
+  	font-weight: normal;
+  	color: #fff;
+  	font-size: 70px;
+}
+.footer-menu #footer_menu li .instagram:before{
+  	content: "\e09a";
+  	font-family: "ETmodules";
+  	font-weight: normal;
+  	color: #fff;
+  	font-size: 70px;
 }
 .footer-menu #footer_menu li:last-child a:after{
 	display:none;
