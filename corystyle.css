@@ -616,20 +616,17 @@ a.responsive-menu-close:hover{
 .footer-menu #footer_menu li .linkedin:before{
   	content: "\e09d";
   	font-family: "ETmodules";
-  	font-weight: normal;
   	font-size: 75px;
 }
 .footer-menu #footer_menu li .twitter:before{
   	content: "\e094";
   	font-family: "ETmodules";
-  	font-weight: normal;
-  	font-size: 75px;
+  	font-size: 65px;
 }
 .footer-menu #footer_menu li .instagram:before{
   	content: "\e09a";
   	font-family: "ETmodules";
-  	font-weight: normal;
-  	font-size: 75px;
+  	font-size: 65px;
 }
 @media (max-width: 768px) {
 	
@@ -649,7 +646,6 @@ a.responsive-menu-close:hover{
 		padding-right: 2vw;
 	}
 } 
-
 .section_hero{
     height: 711px;
 }
