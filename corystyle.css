@@ -607,39 +607,30 @@ a.responsive-menu-close:hover{
 }
 .footer-menu #footer_menu li a{
 	color: #fff;
-	display:block;
-	padding-left:10px;
-	padding-right:10px;
-	position: relative;
+	padding-left:15px;
+	padding-right:15px;
+}
+.footer-menu #footer_menu li a:hover{
+	color: #22bede;
 }
 .footer-menu #footer_menu li .linkedin:before{
   	content: "\e09d";
   	font-family: "ETmodules";
   	font-weight: normal;
-  	color: #fff;
-  	font-size: 70px;
+  	font-size: 75px;
 }
 .footer-menu #footer_menu li .twitter:before{
   	content: "\e094";
   	font-family: "ETmodules";
   	font-weight: normal;
-  	color: #fff;
-  	font-size: 70px;
+  	font-size: 75px;
 }
 .footer-menu #footer_menu li .instagram:before{
   	content: "\e09a";
   	font-family: "ETmodules";
   	font-weight: normal;
-  	color: #fff;
-  	font-size: 70px;
+  	font-size: 75px;
 }
-.footer-menu #footer_menu li:last-child a:after{
-	display:none;
-}
-.footer-menu #footer_menu li a:hover{
-	color: #22bede;
-}
-
 @media (max-width: 768px) {
 	
 	.site-footer span.copy_right{
