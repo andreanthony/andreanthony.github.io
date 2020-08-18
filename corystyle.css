@@ -399,7 +399,7 @@ a.responsive-menu-close:hover{
 
 .fixed-header .site-header{
 	border-bottom: 0;
-	box-shadow: 0px 2px 15px -2px #5a3890;
+	box-shadow: 0px 2px 10px -2px #5a3890;
 }
 .fixed-header{
 	position:fixed;
