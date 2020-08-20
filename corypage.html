@@ -87,10 +87,68 @@
         </div>
         <div class="section_02__only_content">	        
 	        <a href="#learnmore" data-effect="mfp-zoom-in" class="button-alt2">LEARN MORE ></a>
-		<div id="learnmore" class="zoom-anim-dialog mfp-hide">
-	<h1>Dialog example</h1>
-	<p>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.</p>
-</div>
+		<div class="html-code">
+      <a class="popup-with-zoom-anim" href="#small-dialog" >Open with fade-zoom animation</a><br/>
+      <div id="small-dialog" class="zoom-anim-dialog mfp-hide">
+        <h1>Dialog example</h1>
+        <p>This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.</p>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('.popup-with-zoom-anim').magnificPopup({
+          type: 'inline',
+
+          fixedContentPos: false,
+          fixedBgPos: true,
+
+          overflowY: 'auto',
+
+          closeBtnInside: true,
+          preloader: false,
+          
+          midClick: true,
+          removalDelay: 300,
+          mainClass: 'my-mfp-zoom-in'
+        });
+      });
+    </script>
+    <style type="text/css">
+      #small-dialog {
+        background: white;
+        padding: 20px 30px;
+        text-align: left;
+        max-width: 400px;
+        margin: 40px auto;
+        position: relative;
+      }
+      .my-mfp-zoom-in .zoom-anim-dialog {
+        opacity: 0;
+        transition: all 0.2s ease-in-out; 
+        transform: scale(0.8); 
+      }
+      .my-mfp-zoom-in.mfp-ready .zoom-anim-dialog {
+        opacity: 1;
+        transform: scale(1); 
+      }
+      .my-mfp-zoom-in.mfp-removing .zoom-anim-dialog {
+        transform: scale(0.8); 
+        opacity: 0;
+      }
+       .my-mfp-zoom-in.mfp-bg {
+        opacity: 0;
+        transition: opacity 0.3s ease-out;
+      }
+      .my-mfp-zoom-in.mfp-ready.mfp-bg {
+        opacity: 0.8;
+      }
+      .my-mfp-zoom-in.mfp-removing.mfp-bg {
+        opacity: 0;
+      }
+    </style>
+  </div>
+	      </div>
         </div>
       </div>
     </section>  
