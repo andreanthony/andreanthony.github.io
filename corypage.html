@@ -95,19 +95,16 @@
     </div>
 
     <script type="text/javascript">
-      $(document).ready(function() {
-        $('#learnmore').magnificPopup({
-          type: 'inline',
-          fixedContentPos: false,
-          fixedBgPos: true,
-          overflowY: 'auto',
-          closeBtnInside: true,
-          preloader: false,
-          midClick: true,
-          removalDelay: 300,
-          mainClass: 'data-effect'
-        });
-      });
+      $('#learnmore').magnificPopup({
+  	delegate: 'a',
+  	removalDelay: 500,
+  	callbacks: {
+    	beforeOpen: function() {
+       this.st.mainClass = this.st.el.attr('data-effect');
+       }
+      },
+      midClick: true
+    });
     </script>
     <style type="text/css">
       .anim-dialog {
