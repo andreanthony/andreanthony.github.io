@@ -24,6 +24,9 @@ post {
 br.mo{
 	display:none;
 }
+img.is-rounded{
+	border-radius: 290486px;
+}
 body{
 	background-color:#fff;
 	font-family: 'Red Hat Display', sans-serif;
