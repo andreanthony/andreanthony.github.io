@@ -26,6 +26,8 @@ br.mo{
 }
 img.is-rounded{
 	border-radius: 290486px;
+	margin: auto;
+	display: block;
 }
 body{
 	background-color:#fff;
