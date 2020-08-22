@@ -17,7 +17,9 @@ post {
 	display: block;
 	text-align: justify;
 	margin: auto;
-	max-width: 1040px;	
+	max-width: 1040px;
+	margin-top: 8vw;
+	margin-bottom: 2vw;
 }	
 br.mo{
 	display:none;
