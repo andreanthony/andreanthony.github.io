@@ -13,6 +13,11 @@ p {
 article {
 	font-size: 27px;
 }
+post {
+	text-align: justify;
+	padding-left: 430px;
+	padding-right: 430px;
+}	
 br.mo{
 	display:none;
 }
@@ -63,6 +68,9 @@ a {
 	}
 	article {
 		font-size: 17px;
+	post {
+		font-size: 17px;
+		padding: 8vw;
 	}
 }
 img {
