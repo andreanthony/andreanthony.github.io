@@ -15,11 +15,13 @@ article {
 }
 post {	
 	display: block;
-	text-align: justify;
+	text-align: left;
 	margin: auto;
 	max-width: 1040px;
 	margin-top: 2vw;
 	margin-bottom: 2vw;
+	box-shadow: 0 20px 50px rgba(0,0,0,.2);
+	border-radius: 20px;
 }	
 br.mo{
 	display:none;
