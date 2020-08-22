@@ -13,10 +13,11 @@ p {
 article {
 	font-size: 27px;
 }
-post {
+post {	
+	display: block;
 	text-align: justify;
-	padding-left: 430px;
-	padding-right: 430px;
+	margin: auto;
+	max-width: 1040px;	
 }	
 br.mo{
 	display:none;
