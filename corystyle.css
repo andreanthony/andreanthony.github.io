@@ -1225,14 +1225,14 @@ h2 .fontstyle{
 }
 .section_04__top h2 .fontstyle{
     padding-left: 213px;
-    margin-top: -8px;
+    margin-top: 20px;
     font-size: 64px;
 }
 .section_04__only_content{
 	padding-bottom: 10px;
 }
 .section_04__only_content_in{
-	display: flex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
@@ -1301,7 +1301,7 @@ h2 .fontstyle{
 
 	.section_04__top h2 .fontstyle {
 		font-size: 7.4vw;
-		padding-left: 44vw;
+		padding-left: 24vw;
 		margin-top: 0px;
 	}
 	.section_04__top:after {
