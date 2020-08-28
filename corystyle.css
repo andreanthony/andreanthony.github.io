@@ -1210,15 +1210,6 @@ h2 .fontstyle{
 .section_04__top{
 	position: relative;
 }
-.section_04__top:after{
-    content: "";
-    position: absolute;
-    width: 62%;
-    height: 4px;
-    top: 31px;
-    right: 88px;
-    background-color: #22bede;
-}
 .section_04__top h2{
 	color: #000;
 	letter-spacing: 2.5px;
