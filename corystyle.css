@@ -933,22 +933,11 @@ h2 .fontstyle{
 	position: relative;
 	z-index: 32;
 	border-color: #ffffff;
-	background-image: url(cory1.png);
+	background-image: url(cory2.png);
 }
 .section_02__left_container img{
 	width:50%;
 	opacity:0;
-}
-.section_02__left_container:before{
-    content: "";
-    position: absolute;
-    width: 297px;
-    height: 217px;
-    bottom: -95px;
-    left: -77px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;    
 }
 .section_02__left_container img{
     width: 100%;
