@@ -431,7 +431,7 @@ a.responsive-menu-close:hover{
 
 .fixed-header .site-header{
 	border-bottom: 0;
-	box-shadow: 0px 2px 7px -2px #000;
+	box-shadow: 0px 2px 7px -2px rgba(0, 0, 0, 0.58);
 }
 .fixed-header{
 	position:fixed;
