@@ -117,7 +117,7 @@ html {
 .section-inner {
 	max-width: 1040px;
 	width: 86%;
-	margin-left: 300px;
+	margin: auto;
 	position:relative;
 }
 
@@ -596,8 +596,6 @@ a.responsive-menu-close:hover{
 .site-footer {
 	padding-left: 8vw;
     	padding-right: 8vw;
-	}
-
 }
 .site-footer{
     background-color: #000000;
@@ -700,7 +698,7 @@ a.responsive-menu-close:hover{
     position: absolute;
     height: 711px;
     width: 70%;
-    top: -54px;
+    top: 0px;
     right: -110px;
     background-size: 1439px;
     background-repeat: no-repeat;
@@ -899,7 +897,7 @@ a.responsive-menu-close:hover{
 		margin-top: 4.2vw;
 	}
 	.section_hero{
-		height: 446px;
+		height: 436px;
 	}
 }
 
@@ -909,12 +907,11 @@ h2 .fontstyle{
 .section_02{
 	position:relative;
 	padding-top:20px;
-	background-color: #f6f5f3;
+	background-color: #f2f6fa;
 }
 .section_02 .section-inner{
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: 340px;
 	max-width: 1200px;
 }
 .section_02__left {
