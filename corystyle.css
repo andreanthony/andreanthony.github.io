@@ -16,22 +16,31 @@ article {
 post {	
 	display: block;
 	text-align: left;
-	margin: auto;
 	max-width: 1040px;
-	margin-top: 2vw;
-	margin-bottom: 2vw;
 	box-shadow: 0 20px 50px rgba(0,0,0,.2);
 	border-radius: 20px;
-}	
+	margin-left: 640px;
+   	margin-bottom: 60px;
+    	margin-top: 60px;
+}
+label {	
+	position: absolute;
+   	top: 660px;
+    	left: 130px;
+    	max-width: 450px;
+    	text-align: center;
+}
 br.mo{
 	display:none;
 }
 img.is-rounded{
 	border-radius: 290486px;
-	margin: auto;
 	display: block;
 	width: 500px;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px, rgba(0, 0, 0, 0.2) 0px 2px 24px;
+	float: left;
+    	margin-left: 160px;
+    	margin-top: -30px;
 }
 body{
 	background-color:#fff;
@@ -83,6 +92,10 @@ a {
 	}
 	post {
 		font-size: 17px;
+		margin: auto;
+	}
+	img.is-rounded{
+		margin: auto;
 	}
 }
 img {
