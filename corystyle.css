@@ -37,8 +37,8 @@ img.is-rounded{
 	width: 500px;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px, rgba(0, 0, 0, 0.2) 0px 2px 24px;
 	float: left;
-    	margin-left: 160px;
-    	margin-top: -30px;
+    	margin-left: 140px;
+    	margin-top: -40px;
 }
 body{
 	background-color:#fff;
@@ -94,6 +94,7 @@ a {
 	}
 	img.is-rounded{
 		margin: auto;
+		margin-top: -40px;
 	}
 }
 img {
