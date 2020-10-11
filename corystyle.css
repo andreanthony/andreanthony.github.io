@@ -15,7 +15,6 @@ article {
 }
 post {	
 	display: block;
-	text-align: justify;
 	max-width: 1040px;
 	border-radius: 20px;
 	margin-left: 640px;
