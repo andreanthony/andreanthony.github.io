@@ -618,6 +618,7 @@ a.responsive-menu-close:hover{
 .footer-menu{
 	text-align: center;
 	padding-bottom:15px;
+	padding-top: 30px;
 }
 .footer-menu #footer_menu{
 	margin-top: -50px;
@@ -637,17 +638,17 @@ a.responsive-menu-close:hover{
 .footer-menu #footer_menu li .linkedin:before{
   	content: "\e09d";
   	font-family: "ETmodules";
-  	font-size: 180px;
+  	font-size: 90px;
 }
 .footer-menu #footer_menu li .twitter:before{
   	content: "\e094";
   	font-family: "ETmodules";
-  	font-size: 150px;
+  	font-size: 75px;
 }
 .footer-menu #footer_menu li .instagram:before{
   	content: "\e09a";
   	font-family: "ETmodules";
-  	font-size: 150px;
+  	font-size: 75px;
 }
 @media (max-width: 768px) {
 	
