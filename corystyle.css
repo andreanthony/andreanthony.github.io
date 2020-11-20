@@ -1260,11 +1260,8 @@ h2 .fontstyle{
 		margin-top: 0vw;
 		vertical-align: sub;
 	}
-	.section_04__content_items p {
-		padding-left: 13vw;
-		font-size: 3vw;
-		line-height: 1.2;
-		margin-top: -5vw;
+	.section_04__content_items a {
+		font-size: 22px;
 	}
 	.section_04__content_items.section_04__items_2 p,
 	.section_04__content_items.section_04__items_3 p{
