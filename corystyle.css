@@ -3,7 +3,7 @@
 @font-face {font-family: 'ETmodules'; src: url(https://db.onlinewebfonts.com/t/9d25ea5c587d0f9d470aa9a3634735ea.woff2);}
 
 img{border:0}body{margin:0}
-footer,header,main,menu,nav,section{display:block}a:active,a:hover{outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}
+footer,header,main,menu,nav,section{display:block}a:active,a:hover{color:#22bede;outline:0}b,strong{font-weight:700}h1{font-size:2em;margin:.67em 0}
 
 p{margin: 0;margin-bottom:20px;}em,i{font-style:italic}
 p {
