@@ -1202,7 +1202,7 @@ h2 .fontstyle{
 .section_04__only_content_in{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .section_04__content_items h2:after{
 	content: "";
@@ -1230,7 +1230,6 @@ h2 .fontstyle{
 	line-height: 1.4;
 }
 .section_04__content_items.section_04__items_2 p{padding-left: 120px;}
-.section_04__content_items.section_04__items_3 p{padding-left: 35px;}
 .section_04__content_items p strong{
 	color: #000000;
 	text-align: left;
