@@ -916,27 +916,12 @@ h2 .fontstyle{
 }
 .section_02__left_container{
 	width: 320px;
-	background-repeat: no-repeat;
-	background-position: center top;
 	background-size: cover;
 	height: 498px;
-	position: relative;
-	z-index: 32;
-	border-color: #ffffff;
 	background-image: url(cory2.png);
 }
 .section_02__left_container img{
-	width:50%;
 	opacity:0;
-}
-.section_02__left_container img{
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center top;
-    background-size: cover;
-    height: 745px;
-    position: relative;
-    z-index: 32;
 }
 .section_02__right{
 	width: 477.5px;
