@@ -1128,8 +1128,7 @@ h2 .fontstyle{
 	.section_02__left_container{
 		border-width: 1.5vw;
 		margin-left: 0px;
-		width: 157px;
-		margin-top: -90px;
+		width: 157px;		
 	}
 	.section_02__left_container:before{
 		width: 40vw;
