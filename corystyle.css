@@ -709,10 +709,7 @@ a.responsive-menu-close:hover{
 	opacity: 0;
 }
 .section_hero_left{
-    width: 65%;
-    padding-left: 60px;
     position: relative;
-    z-index: 1;
 }
 .section_hero_left h1{
     font-size: 45px;
