@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Red+Hat+Display:400,500,500i,700,700i&display=swap');
 
+@import url('https://use.fontawesome.com/releases/v5.10.1/css/all.css');
+
+@font-face {font-family: 'Font Awesome 5 Free'; src: url(https://use.fontawesome.com/releases/v5.10.1/webfonts/fa-solid-900.woff2);}
+
 @font-face {font-family: 'ETmodules'; src: url(https://db.onlinewebfonts.com/t/9d25ea5c587d0f9d470aa9a3634735ea.woff2);}
 
 img{border:0}body{margin:0}
@@ -25,6 +29,15 @@ br.mo{
 }
 .fa-plus:before {
     content: "\f067";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+.FaqItem {
+    cursor: pointer;
+    border-bottom: 1px solid #efefef;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+    font-size: 1.5rem;
 }
 img.is-rounded{
 	border-radius: 290486px;
