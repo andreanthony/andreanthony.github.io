@@ -1184,18 +1184,6 @@ h2 .fontstyle{
 .section_04 .section-inner{
 	max-width: 1178px;
 }
-.section_04__top{
-	position: relative;
-}
-.section_04__top h2{
-	color: #000;
-	letter-spacing: 2.5px;
-}
-.section_04__top h2 .fontstyle{
-    padding-left: 213px;
-    margin-top: 20px;
-    font-size: 64px;
-}
 .section_04__only_content{
 	padding-bottom: 10px;
 }
