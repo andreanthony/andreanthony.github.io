@@ -711,7 +711,7 @@ a.responsive-menu-close:hover{
 .section_hero_left{
     width: 58%;
     padding-top: 56px;
-    padding-left: 76px;
+    padding-left: 60px;
     position: relative;
     z-index: 1;
 }
