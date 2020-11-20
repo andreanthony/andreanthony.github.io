@@ -691,7 +691,7 @@ a.responsive-menu-close:hover{
 	display:flex;
 	flex-wrap:wrap;
 	box-sizing:border-box;
-	padding-top: 100px;
+	padding-top: 20px;
 	z-index:1;
 }
 .section_hero_bg{
