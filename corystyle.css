@@ -1192,8 +1192,11 @@ h2 .fontstyle{
 	vertical-align: sub;
 }
 .section_04__content_items p{
-	margin-top: -28px;
+	margin-top: -60px;
 	display: block;
+	font-size: 40px;
+    	font-weight: 700;
+	text-align: center;
 }
 .section_04__content_items.section_04__items_2 p{padding-left: 120px;}
 .section_04__content_items p strong{
@@ -1261,7 +1264,7 @@ h2 .fontstyle{
 		padding-left: 13vw;
 		font-size: 3vw;
 		line-height: 1.2;
-		margin-top: -1vw;
+		margin-top: -5vw;
 	}
 	.section_04__content_items.section_04__items_2 p,
 	.section_04__content_items.section_04__items_3 p{
