@@ -719,6 +719,12 @@ a.responsive-menu-close:hover{
 		padding-left:15px;
 		padding-right:10px;
 	}
+	.section_05 {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		margin-top: 0px;
+    		margin-bottom: 0px;
+	}
 } 
 .section_hero{
     height: 711px;
