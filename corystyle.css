@@ -44,10 +44,6 @@ button {
     padding-top: 1.5rem;
     font-size: 1.5rem;
 }
-.text-primary {
-    color: #22bede;
-    margin-right: 1rem;
-}
 .content {
   padding: 0 18px;
   display: none;
