@@ -42,8 +42,6 @@ button {
     border-bottom: 1px solid #efefef;
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
-    text-align: left;
-    outline: none;
     font-size: 1.5rem;
 }
 .text-primary {
