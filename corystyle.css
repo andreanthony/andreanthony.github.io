@@ -622,10 +622,16 @@ a.responsive-menu-close:hover{
  }
 .section_hero,
 .section_02,
-.section_04,
 .site-footer {
 	padding-left: 8vw;
     	padding-right: 8vw;
+}
+.section_04 {
+    padding-left: 15px;
+    padding-right: 15px;
+    max-width: 1140px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .site-footer{
     background-color: #000000;
