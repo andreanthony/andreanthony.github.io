@@ -864,6 +864,12 @@ a.responsive-menu-close:hover{
 		margin-left: -71px;
 		margin-bottom: 21px;
 	}
+	.section_05 {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		margin-top: 0px;
+    		margin-bottom: 0px;
+	}
 }
 @media (max-width: 900px) {
 	.section_hero .section-inner{
