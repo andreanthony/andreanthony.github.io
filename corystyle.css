@@ -25,6 +25,10 @@ post {
 br.mo{
 	display:none;
 }
+button {
+	background-color: #fff;
+	border: none;
+}
 .fa-plus:before {
     content: "\f067";
     font-family: "Font Awesome 5 Free";
