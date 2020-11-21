@@ -1190,12 +1190,11 @@ h2 .fontstyle{
 	margin: 40px auto;
 	position: relative;
 }
-
 .section_04 .section-inner{
 	max-width: 1178px;
 }
 .section_04__only_content{
-	padding-bottom: 10px;
+	padding-bottom: 40px;
 }
 .section_04__only_content_in{
     display: flex;
@@ -1230,7 +1229,15 @@ h2 .fontstyle{
 	color: #000000;
 	text-align: left;
 }
-
+.section_04__content_items:after {
+    content: " ";
+    background-color: #22bede;
+    width: 10vw;
+    height: 0.4vw;
+    position: absolute;
+    left: 50%;
+    margin-left: -5vw;
+}
 @media (max-width: 1250px) {
 	.section_04__top h2 .fontstyle{
 		font-size: 49px;
@@ -1310,15 +1317,6 @@ h2 .fontstyle{
 	.section_04__content_items {
 		position:relative;
 		padding-bottom: 20px;
-	}
-	.section_04__content_items:after{
-		content:" ";
-		background-color: #22bede;
-		width: 10vw;
-		height: 0.9vw;
-		position: absolute;
-		left: 50%;
-		margin-left: -5vw;
 	}
 	.section_04__items_1{
 		width: 100%;
