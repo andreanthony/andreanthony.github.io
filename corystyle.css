@@ -35,11 +35,18 @@ br.mo{
     border-bottom: 1px solid #efefef;
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
+    text-align: left;
+    outline: none;
     font-size: 1.5rem;
 }
 .text-primary {
     color: #22bede;
     margin-right: 1rem;
+}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
 }
 img.is-rounded{
 	border-radius: 290486px;
