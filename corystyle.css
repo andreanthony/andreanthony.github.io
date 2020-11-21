@@ -725,7 +725,14 @@ a.responsive-menu-close:hover{
 		margin-top: 0px;
     		margin-bottom: 0px;
 	}
-} 
+}
+.section_05 {
+    max-width: 1140px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .section_hero{
     height: 711px;
 }
