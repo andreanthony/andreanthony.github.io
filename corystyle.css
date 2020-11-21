@@ -29,6 +29,9 @@ br.mo{
     content: "\f067";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
+    margin-right: 1rem;
+    color: #22bede;
+}
 }
 .FaqItem {
     cursor: pointer;
