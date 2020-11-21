@@ -1176,29 +1176,6 @@ h2 .fontstyle{
 	position: relative;
 }
 
-.my-mfp-zoom-in .zoom-anim-dialog {
-	opacity: 0;
-	transition: all 0.2s ease-in-out; 
-	transform: scale(0.8); 
-}
-.my-mfp-zoom-in.mfp-ready .zoom-anim-dialog {
-	opacity: 1;
-	transform: scale(1); 
-}
-.my-mfp-zoom-in.mfp-removing .zoom-anim-dialog {
-	transform: scale(0.8); 
-	opacity: 0;
-}
-.my-mfp-zoom-in.mfp-bg {
-	opacity: 0;
-	transition: opacity 0.3s ease-out;
-}
-.my-mfp-zoom-in.mfp-ready.mfp-bg {
-	opacity: 0.8;
-}
-.my-mfp-zoom-in.mfp-removing.mfp-bg {
-	opacity: 0;
-}
 .section_04 .section-inner{
 	max-width: 1178px;
 }
