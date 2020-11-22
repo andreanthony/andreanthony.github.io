@@ -40,13 +40,23 @@ button {
 .FaqItem {
     cursor: pointer;
     border-bottom: 1px solid #efefef;
-    padding-bottom: 1.5rem;
-    padding-top: 1.5rem;
-    font-size: 1.5rem;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    font-size: 24px;
+}
+faq {
+  color: black;
+  font-weight: normal;
+  font-family: 'Red Hat Display', sans-serif;
 }
 .content {
+  font-size: 22px;
   padding: 0 18px;
   overflow: hidden;
+  display: none;
+}
+.show {
+  display: block;
 }
 img.is-rounded{
 	border-radius: 290486px;
