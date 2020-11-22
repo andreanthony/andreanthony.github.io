@@ -56,6 +56,7 @@ button {
   padding: 0 18px;
   overflow: hidden;
   display: none;
+  border-bottom: 1px solid #efefef;
 }
 img.is-rounded{
 	border-radius: 290486px;
