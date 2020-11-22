@@ -35,14 +35,14 @@ button {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: #22bede;
-  margin-right: 24px;
+  margin-right: 16px;
 }
 .fa-minus {
   content: "\f068";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: #22bede;
-  margin-right: 24px;
+  margin-right: 16px;
 }
 .FaqItem {
     cursor: pointer;
