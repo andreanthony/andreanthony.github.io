@@ -1231,6 +1231,10 @@ h2 .fontstyle{
     	font-weight: 700;
 	text-align: center;
 }
+.section_04__content_items a:hover {
+    transform: scale(1.5) perspective(1px);
+    color: #000;
+}
 .section_04__content_items.section_04__items_2 p{padding-left: 120px;}
 .section_04__content_items p strong{
 	color: #000000;
