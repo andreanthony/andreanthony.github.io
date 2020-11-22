@@ -35,12 +35,14 @@ button {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: #22bede;
+  margin-right: 24px;
 }
 .fa-minus {
   content: "\f068";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   color: #22bede;
+  margin-right: 24px;
 }
 .FaqItem {
     cursor: pointer;
@@ -49,20 +51,11 @@ button {
     padding-top: 24px;
     font-size: 24px;
 }
-faq {
-  color: black;
-  font-weight: normal;
-  font-family: 'Red Hat Display', sans-serif;
-  padding-left: 24px;
-}
 .content {
   font-size: 22px;
   padding: 0 18px;
   overflow: hidden;
   display: none;
-}
-.show {
-  display: block;
 }
 img.is-rounded{
 	border-radius: 290486px;
