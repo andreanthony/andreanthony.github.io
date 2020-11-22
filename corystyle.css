@@ -709,10 +709,6 @@ a.responsive-menu-close:hover{
 		padding-left: 2vw;
 		padding-right: 2vw;
 	}
-	.footer-menu #footer_menu {
-    		margin-top: 0px;
-    		margin-bottom: 0px;
-	}
 	.footer-menu #footer_menu li .linkedin::before {
 		font-size: 75px;
 	}
