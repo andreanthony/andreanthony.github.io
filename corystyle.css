@@ -1217,7 +1217,7 @@ h2 .fontstyle{
     height: 100%;
 }
 .section_04__content_items h2{
-	color: #22bede;
+	color: #000;
 	position:relative;
 }
 .section_04__content_items h2::first-letter {
