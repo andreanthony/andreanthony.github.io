@@ -58,6 +58,9 @@ a.responsive-menu-hand {
     z-index: 999;
     transition: all 0.5s ease;
 }
+.responsive-menu.active {
+    right: 0;
+}
 .responsive-menu {
     position: fixed;
     width: 100%;
